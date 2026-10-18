@@ -45,5 +45,6 @@ jobs:
             echo "変わったものはありません"
           else
             git commit -m "Update Japanese dividend entries (backfill)"
+            git pull --rebase origin main   # 実行の途中で、ほかの変更が送られていても、取り込みの結果を失わないように
             git push
           fi
