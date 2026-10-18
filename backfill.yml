@@ -1,0 +1,49 @@
+name: 日本株の取り込み（過去分・手動）
+
+on:
+  workflow_dispatch:
+    inputs:
+      date_from:
+        description: 取り込みを始める日（YYYY-MM-DD）。最初は 2025-09-01 がおすすめ
+        default: "2025-09-01"
+      date_to:
+        description: 取り込みを終える日（空なら今日）
+        default: ""
+      max_docs:
+        description: 1回で取る書類の上限（EDINETの「短時間の大量アクセス」を避けるため、600まで）
+        default: "600"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dividend-table-data
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    env:
+      EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
+      DATE_FROM: ${{ inputs.date_from }}
+      DATE_TO: ${{ inputs.date_to }}
+      MAX_DOCS: ${{ inputs.max_docs }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: 日本株を取り込む
+        run: |
+          to="$DATE_TO"
+          if [ -z "$to" ]; then to=$(date -u +%F); fi
+          python3 -m scripts.build_jp --from "$DATE_FROM" --to "$to" --max-docs "$MAX_DOCS"
+      - name: 結果を保存する
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "変わったものはありません"
+          else
+            git commit -m "Update Japanese dividend entries (backfill)"
+            git push
+          fi
