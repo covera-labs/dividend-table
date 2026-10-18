@@ -1,0 +1,10754 @@
+{
+ "A": {
+  "annual": 0.992,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "declared"
+ },
+ "AA": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "AAME": {
+  "annual": 0.02,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AAMI": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AAON": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AAP": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "AAPL": {
+  "annual": 1.02,
+  "ccy": "USD",
+  "fy": "2025-09-27",
+  "tag": "declared"
+ },
+ "AAT": {
+  "annual": 1.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ABBV": {
+  "annual": 6.65,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ABCB": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ABM": {
+  "annual": 1.06,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "declared"
+ },
+ "ABT": {
+  "annual": 2.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ACA": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ACCO": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ACGL": {
+  "annual": 5.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ACGLN": {
+  "annual": 5.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ACGLO": {
+  "annual": 5.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ACI": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2026-02-28",
+  "tag": "declared"
+ },
+ "ACIC": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ACN": {
+  "annual": 5.92,
+  "ccy": "USD",
+  "fy": "2025-08-31",
+  "tag": "paid"
+ },
+ "ACNB": {
+  "annual": 1.38,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ACRE": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ACT": {
+  "annual": 0.815,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ACU": {
+  "annual": 0.63,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "AD": {
+  "annual": 23.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ADC": {
+  "annual": 3.081,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ADC-PA": {
+  "annual": 3.081,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ADEA": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ADI": {
+  "annual": 3.89,
+  "ccy": "USD",
+  "fy": "2025-11-01",
+  "tag": "declared"
+ },
+ "ADM": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ADP": {
+  "annual": 6.64,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "ADT": {
+  "annual": 0.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AEBI": {
+  "annual": 0.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AEE": {
+  "annual": 2.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "AEIS": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AEO": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "AEP": {
+  "annual": 3.74,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AES": {
+  "annual": 0.7038,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AESI": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "AFCG": {
+  "annual": 0.53,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AFG": {
+  "annual": 7.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AFGB": {
+  "annual": 7.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AFGC": {
+  "annual": 7.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AFGD": {
+  "annual": 7.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AFGE": {
+  "annual": 7.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AFL": {
+  "annual": 2.35,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGCO": {
+  "annual": 1.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGM": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGM-A": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGM-PD": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGM-PE": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGM-PF": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGM-PG": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGM-PH": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGM-PI": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGNC": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGNCL": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGNCM": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGNCN": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGNCO": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGNCP": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGNCZ": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGNT": {
+  "annual": 0.05,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "AGO": {
+  "annual": 1.36,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGQPF": {
+  "annual": 0.26,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AGX": {
+  "annual": 1.75,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "AHR": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AHRT": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AHRT-PA": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AIG": {
+  "annual": 1.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AIN": {
+  "annual": 1.09,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AIT": {
+  "annual": 1.99,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "AIV": {
+  "annual": 2.83,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AIZ": {
+  "annual": 3.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AIZN": {
+  "annual": 3.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AJG": {
+  "annual": 2.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AKR": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ALB": {
+  "annual": 1.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ALB-PA": {
+  "annual": 1.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ALCO": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "ALG": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ALL": {
+  "annual": 4.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ALL-PB": {
+  "annual": 4.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ALL-PH": {
+  "annual": 4.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ALL-PI": {
+  "annual": 4.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ALL-PJ": {
+  "annual": 4.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ALLE": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ALLY": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ALNT": {
+  "annual": 0.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ALRS": {
+  "annual": 0.83,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ALSN": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ALTG": {
+  "annual": 0.114,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ALTG-PA": {
+  "annual": 0.114,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ALV": {
+  "annual": 3.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ALX": {
+  "annual": 18.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "AMAT": {
+  "annual": 1.78,
+  "ccy": "USD",
+  "fy": "2025-10-26",
+  "tag": "declared"
+ },
+ "AMCCF": {
+  "annual": 2.5875,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "AMCR": {
+  "annual": 2.5875,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "AMG": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "AMGN": {
+  "annual": 9.66,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AMH": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AMH-PG": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AMH-PH": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AMJB": {
+  "annual": 5.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AMKR": {
+  "annual": 0.3316,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AMSF": {
+  "annual": 1.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AMT": {
+  "annual": 6.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ANDE": {
+  "annual": 0.785,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AON": {
+  "annual": 2.91,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "AOS": {
+  "annual": 1.38,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "APA": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "APAM": {
+  "annual": 3.63,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "APD": {
+  "annual": 7.14,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "APH": {
+  "annual": 0.745,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "APLE": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "APO": {
+  "annual": 1.99,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "APOG": {
+  "annual": 1.05,
+  "ccy": "USD",
+  "fy": "2026-02-28",
+  "tag": "declared"
+ },
+ "APOS": {
+  "annual": 1.99,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AQN": {
+  "annual": 0.26,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AQNB": {
+  "annual": 0.26,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ARCC": {
+  "annual": 1.92,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ARCO": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ARE": {
+  "annual": 4.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ARI": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ARMK": {
+  "annual": 0.42,
+  "ccy": "USD",
+  "fy": "2025-10-03",
+  "tag": "declared"
+ },
+ "AROC": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AROW": {
+  "annual": 1.14,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ARR": {
+  "annual": 2.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ARR-PC": {
+  "annual": 2.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ARTNA": {
+  "annual": 1.23,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ARTNB": {
+  "annual": 1.23,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ASB": {
+  "annual": 0.93,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ASB-PE": {
+  "annual": 0.93,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ASB-PF": {
+  "annual": 0.93,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ASBA": {
+  "annual": 0.93,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ASH": {
+  "annual": 1.64,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "ASO": {
+  "annual": 0.13,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "ASRV": {
+  "annual": 0.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ASTE": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ATEN": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ATHM": {
+  "annual": 1.79,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ATLO": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ATMU": {
+  "annual": 0.21,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ATNI": {
+  "annual": 1.07,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ATO": {
+  "annual": 3.48,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "ATR": {
+  "annual": 1.83,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AUB": {
+  "annual": 1.39,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AUB-PA": {
+  "annual": 1.39,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AUBN": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "AVA": {
+  "annual": 1.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "AVGO": {
+  "annual": 2.36,
+  "ccy": "USD",
+  "fy": "2025-11-02",
+  "tag": "paid"
+ },
+ "AVNT": {
+  "annual": 1.085,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AVT": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2026-06-27",
+  "tag": "paid"
+ },
+ "AVY": {
+  "annual": 3.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AWI": {
+  "annual": 1.263,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "AWK": {
+  "annual": 3.31,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AWR": {
+  "annual": 1.939,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AXP": {
+  "annual": 3.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AXS": {
+  "annual": 1.76,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AXS-PE": {
+  "annual": 1.76,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "AYI": {
+  "annual": 0.66,
+  "ccy": "USD",
+  "fy": "2025-08-31",
+  "tag": "declared"
+ },
+ "AZZ": {
+  "annual": 0.77,
+  "ccy": "USD",
+  "fy": "2026-02-28",
+  "tag": "declared"
+ },
+ "BABB": {
+  "annual": 0.06,
+  "ccy": "USD",
+  "fy": "2025-11-30",
+  "tag": "declared"
+ },
+ "BAC": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BAC-PB": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BAC-PE": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BAC-PK": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BAC-PL": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BAC-PM": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BAC-PN": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BAC-PO": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BAC-PP": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BAC-PQ": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BAC-PS": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BACRP": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BAFN": {
+  "annual": 0.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BAH": {
+  "annual": 2.24,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "paid"
+ },
+ "BALL": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BANC": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BANC-PF": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BANF": {
+  "annual": 1.9,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BANFP": {
+  "annual": 1.9,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BANR": {
+  "annual": 1.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BAX": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BBDC": {
+  "annual": 1.19,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BBSI": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BBT": {
+  "annual": 0.728,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BBWI": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "BBY": {
+  "annual": 3.8,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "BC": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BC-PC": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BCBP": {
+  "annual": 0.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BCC": {
+  "annual": 0.86,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BCML": {
+  "annual": 0.9,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BCO": {
+  "annual": 1.0075,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BCPC": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BDC": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BDN": {
+  "annual": 0.53,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BDX": {
+  "annual": 4.16,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "BEN": {
+  "annual": 1.28,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "BF-A": {
+  "annual": 0.915,
+  "ccy": "USD",
+  "fy": "2026-04-30",
+  "tag": "paid"
+ },
+ "BF-B": {
+  "annual": 0.915,
+  "ccy": "USD",
+  "fy": "2026-04-30",
+  "tag": "paid"
+ },
+ "BFC": {
+  "annual": 5.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BFH": {
+  "annual": 0.86,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BFH-PA": {
+  "annual": 0.86,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BFH-PB": {
+  "annual": 0.86,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BFS": {
+  "annual": 2.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BFS-PD": {
+  "annual": 2.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BFS-PE": {
+  "annual": 2.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BFST": {
+  "annual": 0.57,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BG": {
+  "annual": 2.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BGC": {
+  "annual": 0.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BGS": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "BGSF": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "declared"
+ },
+ "BHB": {
+  "annual": 1.26,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BHR": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BHR-PB": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BHR-PD": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BHRB": {
+  "annual": 2.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BKE": {
+  "annual": 4.4,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "paid"
+ },
+ "BKH": {
+  "annual": 2.704,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BKNG": {
+  "annual": 9.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BKU": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BLK": {
+  "annual": 20.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BLMN": {
+  "annual": 0.45,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "declared"
+ },
+ "BMI": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BML-PG": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BML-PH": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BML-PJ": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BML-PL": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BMRC": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BMY": {
+  "annual": 2.49,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BNL": {
+  "annual": 1.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BNY": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BNY-PK": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BOH": {
+  "annual": 2.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BOH-PA": {
+  "annual": 2.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BOH-PB": {
+  "annual": 2.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BOKF": {
+  "annual": 2.34,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BORR": {
+  "annual": 0.02,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BOTJ": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BPOP": {
+  "annual": 2.9,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BPOPM": {
+  "annual": 2.9,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BPOPO": {
+  "annual": 2.9,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BPRN": {
+  "annual": 1.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BR": {
+  "annual": 3.9,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "BRO": {
+  "annual": 0.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BRSP": {
+  "annual": 0.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BRT": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BRX": {
+  "annual": 1.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BSET": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-11-29",
+  "tag": "declared"
+ },
+ "BSPA": {
+  "annual": 1.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BSRR": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BSTT": {
+  "annual": 0.6593,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BSVN": {
+  "annual": 1.02,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BSY": {
+  "annual": 0.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BTU": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BUR": {
+  "annual": 12.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BUSE": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BUSEP": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "BWA": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BWFG": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BWXT": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BX": {
+  "annual": 4.69,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BXMT": {
+  "annual": 1.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BXSL": {
+  "annual": 3.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BY": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "BYD": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CABO": {
+  "annual": 2.95,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CAC": {
+  "annual": 1.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CAG": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "declared"
+ },
+ "CAH": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "CAKE": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-30",
+  "tag": "declared"
+ },
+ "CAL": {
+  "annual": 0.28,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "paid"
+ },
+ "CALM": {
+  "annual": 2.458,
+  "ccy": "USD",
+  "fy": "2026-05-30",
+  "tag": "declared"
+ },
+ "CARR": {
+  "annual": 0.675,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CASH": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "CASS": {
+  "annual": 1.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CAT": {
+  "annual": 5.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CATY": {
+  "annual": 1.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CB": {
+  "annual": 3.82,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CBAN": {
+  "annual": 0.45,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CBC": {
+  "annual": 1.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CBFV": {
+  "annual": 1.02,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CBK": {
+  "annual": 0.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CBKM": {
+  "annual": 0.84,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "CBNK": {
+  "annual": 0.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CBOE": {
+  "annual": 2.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CBRL": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2026-07-31",
+  "tag": "declared"
+ },
+ "CBSH": {
+  "annual": 1.048,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CBT": {
+  "annual": 1.76,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "CBU": {
+  "annual": 1.86,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CC": {
+  "annual": 0.5125,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CCBG": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CCFN": {
+  "annual": 2.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CCI": {
+  "annual": 4.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CCK": {
+  "annual": 1.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CCNE": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CCNEP": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CCOI": {
+  "annual": 3.05,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CCZ": {
+  "annual": 1.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CDP": {
+  "annual": 1.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CDRE": {
+  "annual": 0.38,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CDW": {
+  "annual": 2.505,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CEG": {
+  "annual": 0.3878,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CELG-RI": {
+  "annual": 2.49,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CERO": {
+  "annual": 10.37,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CEROW": {
+  "annual": 10.37,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CF": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CFBK": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CFFI": {
+  "annual": 1.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CFFN": {
+  "annual": 0.34,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "CFG": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CFG-PE": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CFG-PH": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CFG-PI": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CFR": {
+  "annual": 3.95,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CFR-PB": {
+  "annual": 3.95,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CG": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CGABL": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CGNX": {
+  "annual": 0.325,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CHCO": {
+  "annual": 3.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CHCT": {
+  "annual": 1.885,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CHD": {
+  "annual": 1.18,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CHDN": {
+  "annual": 0.438,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CHE": {
+  "annual": 2.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CHH": {
+  "annual": 1.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CHMG": {
+  "annual": 1.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CHMI": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CHMI-PA": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CHMI-PB": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CHRD": {
+  "annual": 5.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CHRW": {
+  "annual": 2.49,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CI": {
+  "annual": 6.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CICB": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CICC": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CIGI": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CIM": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CIM-PA": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CIM-PB": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CIM-PC": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CIM-PD": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CIMN": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CIMO": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CIMP": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CINF": {
+  "annual": 3.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CION": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CIX": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CL": {
+  "annual": 2.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CLAR": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CLB": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CLDT": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CLDT-PA": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CLMB": {
+  "annual": 0.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CMC": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2026-08-31",
+  "tag": "paid"
+ },
+ "CMCO": {
+  "annual": 0.28,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "CMCSA": {
+  "annual": 1.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CME": {
+  "annual": 5.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CMI": {
+  "annual": 7.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CMRF": {
+  "annual": 0.34,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CMS": {
+  "annual": 2.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CMS-PC": {
+  "annual": 2.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CMSA": {
+  "annual": 2.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CMSC": {
+  "annual": 2.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CMSD": {
+  "annual": 2.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CMTV": {
+  "annual": 0.98,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CNA": {
+  "annual": 3.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CNH": {
+  "annual": 0.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CNK": {
+  "annual": 0.33,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CNMD": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CNO": {
+  "annual": 0.67,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CNO-PA": {
+  "annual": 0.67,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CNOB": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CNOBP": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CNP": {
+  "annual": 0.89,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CNR": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CNS": {
+  "annual": 2.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CODI": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CODI-PA": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CODI-PB": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CODI-PC": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "COFS": {
+  "annual": 1.13,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "COHN": {
+  "annual": 3.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "COLB": {
+  "annual": 1.45,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "COLM": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CON": {
+  "annual": 0.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "COP": {
+  "annual": 3.18,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "COR": {
+  "annual": 2.2,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "COST": {
+  "annual": 5.54,
+  "ccy": "USD",
+  "fy": "2026-08-30",
+  "tag": "declared"
+ },
+ "CPB": {
+  "annual": 1.56,
+  "ccy": "USD",
+  "fy": "2026-08-02",
+  "tag": "declared"
+ },
+ "CPF": {
+  "annual": 1.09,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CPK": {
+  "annual": 2.695,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CPT": {
+  "annual": 4.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CR": {
+  "annual": 0.92,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CRAI": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "CRC": {
+  "annual": 1.5675,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CRH": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CRI": {
+  "annual": 1.55,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "CRS": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "CRWS": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2026-03-29",
+  "tag": "declared"
+ },
+ "CSBB": {
+  "annual": 1.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CSCO": {
+  "annual": 1.66,
+  "ccy": "USD",
+  "fy": "2026-07-25",
+  "tag": "declared"
+ },
+ "CSL": {
+  "annual": 4.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CSPI": {
+  "annual": 0.12,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "CSR": {
+  "annual": 3.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CSV": {
+  "annual": 0.45,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CSWC": {
+  "annual": 2.5604,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CSX": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CTAS": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "declared"
+ },
+ "CTBI": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CTRE": {
+  "annual": 1.34,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CTS": {
+  "annual": 0.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CTSH": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CTVA": {
+  "annual": 0.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CUBE": {
+  "annual": 2.09,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CURB": {
+  "annual": 0.67,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CUZ": {
+  "annual": 1.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CVBF": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CVKD": {
+  "annual": 16.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CVR": {
+  "annual": 0.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CVS": {
+  "annual": 2.66,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CVX": {
+  "annual": 6.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CW": {
+  "annual": 0.93,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CWBC": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CWCO": {
+  "annual": 0.53,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CWT": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "CXT": {
+  "annual": 0.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CZFS": {
+  "annual": 1.98,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "CZWI": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "D": {
+  "annual": 2.67,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DAC": {
+  "annual": 3.45,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DAL": {
+  "annual": 0.675,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DAN": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DBI": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "paid"
+ },
+ "DBRHP": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DBRIP": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DBRJP": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DCI": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2026-07-31",
+  "tag": "declared"
+ },
+ "DD": {
+  "annual": 1.43,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DDS": {
+  "annual": 31.1,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "DDT": {
+  "annual": 31.1,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "DE": {
+  "annual": 6.48,
+  "ccy": "USD",
+  "fy": "2025-11-02",
+  "tag": "declared"
+ },
+ "DEA": {
+  "annual": 2.01,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DEI": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DELL": {
+  "annual": 2.1,
+  "ccy": "USD",
+  "fy": "2026-01-30",
+  "tag": "declared"
+ },
+ "DG": {
+  "annual": 2.36,
+  "ccy": "USD",
+  "fy": "2026-01-30",
+  "tag": "paid"
+ },
+ "DHC": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "DHCNI": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "DHCNL": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "DHI": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "DIN": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "declared"
+ },
+ "DINO": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DIT": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "DK": {
+  "annual": 1.02,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "DKS": {
+  "annual": 4.85,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "DLB": {
+  "annual": 1.32,
+  "ccy": "USD",
+  "fy": "2025-09-26",
+  "tag": "declared"
+ },
+ "DLX": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "DMC": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-26",
+  "tag": "declared"
+ },
+ "DNUT": {
+  "annual": 0.035,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "declared"
+ },
+ "DOC": {
+  "annual": 1.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DOV": {
+  "annual": 2.07,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "DOW": {
+  "annual": 2.1,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DPZ": {
+  "annual": 6.96,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "declared"
+ },
+ "DRH": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DRI": {
+  "annual": 6.0,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "declared"
+ },
+ "DRS": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "DSWL": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "DSX": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "DSX-PB": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "DSX-WT": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "DTB": {
+  "annual": 4.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DTE": {
+  "annual": 4.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DTG": {
+  "annual": 4.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DTK": {
+  "annual": 4.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DTM": {
+  "annual": 3.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DTW": {
+  "annual": 4.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DUK": {
+  "annual": 4.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DUK-PA": {
+  "annual": 4.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DUKB": {
+  "annual": 4.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DUKU": {
+  "annual": 4.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DX": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DX-PC": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "DX-PD": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EBC": {
+  "annual": 0.51,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EBF": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2026-02-28",
+  "tag": "paid"
+ },
+ "EBMT": {
+  "annual": 0.575,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ECL": {
+  "annual": 2.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EFC": {
+  "annual": 1560.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EFC-PB": {
+  "annual": 1560.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EFC-PC": {
+  "annual": 1560.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EFC-PD": {
+  "annual": 1560.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EFSC": {
+  "annual": 1.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "EFSCP": {
+  "annual": 1.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "EFSI": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EFX": {
+  "annual": 1.89,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EG": {
+  "annual": 8.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EGBN": {
+  "annual": 0.51,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "EGP": {
+  "annual": 5.9,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EGY": {
+  "annual": 0.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "EHC": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EIG": {
+  "annual": 1.26,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EIX": {
+  "annual": 3.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EL": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "ELS": {
+  "annual": 2.06,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EMBC": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "EME": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EML": {
+  "annual": 0.44,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "paid"
+ },
+ "EMN": {
+  "annual": 3.33,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EMR": {
+  "annual": 2.11,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "EMYB": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ENBP": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ENR": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "ENS": {
+  "annual": 1.03,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "paid"
+ },
+ "ENSG": {
+  "annual": 0.2525,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ENTG": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EOG": {
+  "annual": 3.99,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EP-PC": {
+  "annual": 1.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EPAC": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-08-31",
+  "tag": "declared"
+ },
+ "EPR": {
+  "annual": 3.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "EPR-PC": {
+  "annual": 3.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "EPR-PE": {
+  "annual": 3.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "EPR-PG": {
+  "annual": 3.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "EQBK": {
+  "annual": 0.66,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EQH": {
+  "annual": 1.05,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EQH-PA": {
+  "annual": 1.05,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EQH-PC": {
+  "annual": 1.05,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EQIX": {
+  "annual": 18.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EQT": {
+  "annual": 0.6375,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ES": {
+  "annual": 3.01,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ESAB": {
+  "annual": 0.38,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ESE": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "ESEA": {
+  "annual": 2.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ESI": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ESNT": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ESP": {
+  "annual": 1.75,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "ESQ": {
+  "annual": 0.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ESRT": {
+  "annual": 0.14,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ESS": {
+  "annual": 10.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ETD": {
+  "annual": 1.81,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "ETN": {
+  "annual": 4.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ETR": {
+  "annual": 2.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EVC": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EVI": {
+  "annual": 0.33,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "EVR": {
+  "annual": 3.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EVRG": {
+  "annual": 2.6975,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EVTC": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EWBC": {
+  "annual": 2.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EXC": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EXP": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "paid"
+ },
+ "EXPD": {
+  "annual": 1.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "EXPE": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "EXPO": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2026-01-02",
+  "tag": "declared"
+ },
+ "EXR": {
+  "annual": 6.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "F": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "F-PB": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "F-PC": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "F-PD": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FAF": {
+  "annual": 2.18,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FANG": {
+  "annual": 4.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FAST": {
+  "annual": 0.875,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FBIN": {
+  "annual": 1.01,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "paid"
+ },
+ "FBIZ": {
+  "annual": 1.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FBK": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FBNC": {
+  "annual": 0.91,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FBP": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FBRT": {
+  "annual": 1.42,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FBRT-PE": {
+  "annual": 1.42,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FCAP": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FCBC": {
+  "annual": 4.31,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FCCO": {
+  "annual": 0.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FCF": {
+  "annual": 0.535,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FCFS": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FCNCA": {
+  "annual": 7.95,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FCNCB": {
+  "annual": 7.95,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FCNCN": {
+  "annual": 7.95,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FCNCO": {
+  "annual": 7.95,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FCNCP": {
+  "annual": 7.95,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FCPT": {
+  "annual": 1.4315,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FCX": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FDBC": {
+  "annual": 1.63,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FDUS": {
+  "annual": 2.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FDX": {
+  "annual": 5.8,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "declared"
+ },
+ "FE": {
+  "annual": 1.78,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FERG": {
+  "annual": 3.28,
+  "ccy": "USD",
+  "fy": "2025-07-31",
+  "tag": "paid"
+ },
+ "FFBC": {
+  "annual": 0.98,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FFIN": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FG": {
+  "annual": 0.91,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FGBI": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FGBIP": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FGN": {
+  "annual": 0.91,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FGSN": {
+  "annual": 0.91,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FHB": {
+  "annual": 1.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FHI": {
+  "annual": 1.33,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FHN": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FHN-PE": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FHN-PF": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FHN-PH": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FIBK": {
+  "annual": 1.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FIISO": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FIISP": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FIS": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FISI": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FITB": {
+  "annual": 1.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FITB-PA": {
+  "annual": 1.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FITB-PI": {
+  "annual": 1.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FITB-PK": {
+  "annual": 1.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FITB-PM": {
+  "annual": 1.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FIX": {
+  "annual": 1.95,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FKYS": {
+  "annual": 1.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FLG": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FLG-PA": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FLG-PU": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FLO": {
+  "annual": 0.9825,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "paid"
+ },
+ "FLOC": {
+  "annual": 0.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FLS": {
+  "annual": 0.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FLXS": {
+  "annual": 0.85,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "FMAO": {
+  "annual": 0.9,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FMBH": {
+  "annual": 98.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FMBM": {
+  "annual": 1.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FMC": {
+  "annual": 1.82,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FMCB": {
+  "annual": 19.35,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FMNB": {
+  "annual": 0.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FNB": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FNF": {
+  "annual": 2.02,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FNLC": {
+  "annual": 1.47,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FNWB": {
+  "annual": 0.14,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FNWD": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FPI": {
+  "annual": 0.44,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FR": {
+  "annual": 1.78,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FRAF": {
+  "annual": 1.31,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FREVS": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "declared"
+ },
+ "FRME": {
+  "annual": 1.43,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FRMEP": {
+  "annual": 1.43,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FRST": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FRT": {
+  "annual": 4.46,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FRT-PC": {
+  "annual": 4.46,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FSBC": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FSBW": {
+  "annual": 1.34,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FSK": {
+  "annual": 2.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FSP": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FSS": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FTAI": {
+  "annual": 1.35,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FTAIM": {
+  "annual": 1.35,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FTCO": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FTI": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FUL": {
+  "annual": 0.928,
+  "ccy": "USD",
+  "fy": "2025-11-29",
+  "tag": "declared"
+ },
+ "FULT": {
+  "annual": 0.73,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FULTP": {
+  "annual": 0.73,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FUNC": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FUSB": {
+  "annual": 0.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "FXA": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FXB": {
+  "annual": 3.13,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FXC": {
+  "annual": 0.37,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "FXNC": {
+  "annual": 0.635,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "G": {
+  "annual": 0.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GABC": {
+  "annual": 1.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GAIN": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "paid"
+ },
+ "GAING": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "paid"
+ },
+ "GAINI": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "paid"
+ },
+ "GAINZ": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "paid"
+ },
+ "GAP": {
+  "annual": 0.66,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "GATX": {
+  "annual": 2.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GBCI": {
+  "annual": 1.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GBDC": {
+  "annual": 1.65,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "GBLI": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GCBC": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "GCMG": {
+  "annual": 0.45,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GE": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GEHC": {
+  "annual": 0.14,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GEN": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2026-04-03",
+  "tag": "declared"
+ },
+ "GENK": {
+  "annual": 0.03,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "GENVR": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2026-04-03",
+  "tag": "declared"
+ },
+ "GEV": {
+  "annual": 1.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GFF": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "GGG": {
+  "annual": 1.12,
+  "ccy": "USD",
+  "fy": "2025-12-26",
+  "tag": "declared"
+ },
+ "GHC": {
+  "annual": 7.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GIC": {
+  "annual": 1.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GIII": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "paid"
+ },
+ "GILD": {
+  "annual": 3.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GIS": {
+  "annual": 2.44,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "declared"
+ },
+ "GL": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GL-PD": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GLAD": {
+  "annual": 2.48,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "GLPI": {
+  "annual": 3.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "GLW": {
+  "annual": 1.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GM": {
+  "annual": 0.57,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GNE": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GNK": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GNL": {
+  "annual": 0.845,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GNL-PA": {
+  "annual": 0.845,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GNL-PB": {
+  "annual": 0.845,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GNL-PD": {
+  "annual": 0.845,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GNL-PE": {
+  "annual": 0.845,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GNTX": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GOLF": {
+  "annual": 0.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GOOD": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GOODN": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GOODO": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GOOG": {
+  "annual": 0.83,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GOOGL": {
+  "annual": 0.83,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GOOGM": {
+  "annual": 0.83,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GOOGN": {
+  "annual": 0.83,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GOVB": {
+  "annual": 0.16,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "GPC": {
+  "annual": 4.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GPI": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GPMT": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GPMT-PA": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GPN": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GRNT": {
+  "annual": 0.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GROW": {
+  "annual": 0.0075,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "GS": {
+  "annual": 14.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GS-PA": {
+  "annual": 14.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GS-PC": {
+  "annual": 14.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GS-PD": {
+  "annual": 14.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GSBC": {
+  "annual": 1.66,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GSCE": {
+  "annual": 14.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GTN": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GTN-A": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GTY": {
+  "annual": 1.9,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GVA": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GWRS": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "GWW": {
+  "annual": 8.83,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "H": {
+  "annual": 0.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HAFC": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HAS": {
+  "annual": 2.8,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "declared"
+ },
+ "HBAN": {
+  "annual": 0.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HBANL": {
+  "annual": 0.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HBANM": {
+  "annual": 0.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HBANP": {
+  "annual": 0.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HBANZ": {
+  "annual": 0.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HBB": {
+  "annual": 0.475,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "HBCP": {
+  "annual": 1.14,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HBIA": {
+  "annual": 1.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HBNC": {
+  "annual": 0.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HBT": {
+  "annual": 0.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HCA": {
+  "annual": 2.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HCC": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HCI": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HCIIP": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HCKT": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-26",
+  "tag": "declared"
+ },
+ "HD": {
+  "annual": 9.2,
+  "ccy": "USD",
+  "fy": "2026-02-01",
+  "tag": "paid"
+ },
+ "HDB": {
+  "annual": 0.17,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "HEI": {
+  "annual": 0.23,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "paid"
+ },
+ "HEI-A": {
+  "annual": 0.23,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "paid"
+ },
+ "HFWA": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HIG": {
+  "annual": 2.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HIG-PG": {
+  "annual": 2.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HII": {
+  "annual": 5.43,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HL": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "HL-PB": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "HLIO": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "HLT": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HMN": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HNI": {
+  "annual": 1.35,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "HNNA": {
+  "annual": 0.55,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "HNVR": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HOFT": {
+  "annual": 0.805,
+  "ccy": "USD",
+  "fy": "2026-02-01",
+  "tag": "declared"
+ },
+ "HOG": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "HOMB": {
+  "annual": 0.805,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "HON": {
+  "annual": 4.58,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "HOPE": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HP": {
+  "annual": 0.25,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "HPE": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "declared"
+ },
+ "HPE-PC": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "declared"
+ },
+ "HPK": {
+  "annual": 0.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HPQ": {
+  "annual": 1.16,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "declared"
+ },
+ "HQI": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HR": {
+  "annual": 1.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HRB": {
+  "annual": 1.68,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "HRI": {
+  "annual": 2.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HRL": {
+  "annual": 1.16,
+  "ccy": "USD",
+  "fy": "2025-10-26",
+  "tag": "declared"
+ },
+ "HRZN": {
+  "annual": 1.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HSHP": {
+  "annual": 0.57,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HST": {
+  "annual": 0.95,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HSTM": {
+  "annual": 0.124,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HTB": {
+  "annual": 0.49,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "HTFC": {
+  "annual": 1.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HTH": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HTLD": {
+  "annual": 0.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HTO": {
+  "annual": 1.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "HUBB": {
+  "annual": 5.38,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HUM": {
+  "annual": 3.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "HUN": {
+  "annual": 0.8375,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HWC": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HWCPZ": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HWKN": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2026-03-29",
+  "tag": "declared"
+ },
+ "HWM": {
+  "annual": 0.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HXL": {
+  "annual": 70.95,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "HY": {
+  "annual": 1.43,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "IBCP": {
+  "annual": 1.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IBM": {
+  "annual": 6.71,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "IBOC": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IBP": {
+  "annual": 3.18,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ICE": {
+  "annual": 1.92,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ICFI": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ICMB": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IDA": {
+  "annual": 3.46,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IDCC": {
+  "annual": 2.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IDT": {
+  "annual": 0.26,
+  "ccy": "USD",
+  "fy": "2026-07-31",
+  "tag": "declared"
+ },
+ "IEX": {
+  "annual": 2.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IFF": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IGIC": {
+  "annual": 1.025,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "III": {
+  "annual": 0.18,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "IIIN": {
+  "annual": 1.12,
+  "ccy": "USD",
+  "fy": "2025-09-27",
+  "tag": "declared"
+ },
+ "ILPT": {
+  "annual": 0.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "IMNN": {
+  "annual": 0.15,
+  "ccy": "USD",
+  "fy": "2026-07-28",
+  "tag": "declared"
+ },
+ "INBK": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "INBKZ": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "INDB": {
+  "annual": 2.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "INGM": {
+  "annual": 0.308,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "declared"
+ },
+ "INN": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "INN-PE": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "INN-PF": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "INPAP": {
+  "annual": 1.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "INRE": {
+  "annual": 0.5424,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "INSW": {
+  "annual": 2.93,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "INTU": {
+  "annual": 4.8,
+  "ccy": "USD",
+  "fy": "2026-07-31",
+  "tag": "declared"
+ },
+ "INVH": {
+  "annual": 1.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IOSP": {
+  "annual": 1.71,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "IP": {
+  "annual": 1.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "IPAR": {
+  "annual": 3.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IPSI": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IRM": {
+  "annual": 3.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IRT": {
+  "annual": 0.67,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ISBA": {
+  "annual": 1.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ISTR": {
+  "annual": 0.435,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ITIC": {
+  "annual": 10.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ITT": {
+  "annual": 1.404,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ITW": {
+  "annual": 6.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IVT": {
+  "annual": 0.9508,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "IVZ": {
+  "annual": 0.835,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JACK": {
+  "annual": 0.88,
+  "ccy": "USD",
+  "fy": "2025-09-28",
+  "tag": "declared"
+ },
+ "JAKK": {
+  "annual": 0.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "JBGS": {
+  "annual": 0.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JBHT": {
+  "annual": 1.76,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "JBSS": {
+  "annual": 4.0,
+  "ccy": "USD",
+  "fy": "2026-06-25",
+  "tag": "declared"
+ },
+ "JBTM": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JCAP": {
+  "annual": 0.98,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JCI": {
+  "annual": 1.51,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "JEF": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-11-30",
+  "tag": "declared"
+ },
+ "JILL": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "JJSF": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-09-27",
+  "tag": "declared"
+ },
+ "JKHY": {
+  "annual": 2.38,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "JMSB": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "JNJ": {
+  "annual": 5.14,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "paid"
+ },
+ "JOE": {
+  "annual": 0.58,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JPM": {
+  "annual": 5.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JPM-PC": {
+  "annual": 5.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JPM-PD": {
+  "annual": 5.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JPM-PJ": {
+  "annual": 5.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JPM-PK": {
+  "annual": 5.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JPM-PL": {
+  "annual": 5.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JPM-PM": {
+  "annual": 5.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JRSH": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "JRVR": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "JSM": {
+  "annual": 0.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "JUVF": {
+  "annual": 0.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KAI": {
+  "annual": 1.36,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "KALU": {
+  "annual": 3.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KBH": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-11-30",
+  "tag": "declared"
+ },
+ "KBR": {
+  "annual": 0.66,
+  "ccy": "USD",
+  "fy": "2026-01-02",
+  "tag": "declared"
+ },
+ "KDP": {
+  "annual": 0.92,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KEY": {
+  "annual": 0.82,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KEY-PI": {
+  "annual": 0.82,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KEY-PJ": {
+  "annual": 0.82,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KEY-PK": {
+  "annual": 0.82,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KEY-PL": {
+  "annual": 0.82,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KFRC": {
+  "annual": 1.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KFY": {
+  "annual": 1.99,
+  "ccy": "USD",
+  "fy": "2026-04-30",
+  "tag": "declared"
+ },
+ "KGS": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "KHC": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "declared"
+ },
+ "KIM": {
+  "annual": 1.01,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KIM-PL": {
+  "annual": 1.01,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KIM-PM": {
+  "annual": 1.01,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KIM-PN": {
+  "annual": 1.01,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KINS": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KKR": {
+  "annual": 0.73,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KKR-PD": {
+  "annual": 0.73,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KKRS": {
+  "annual": 0.73,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KKRT": {
+  "annual": 0.73,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KLAC": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "KLIC": {
+  "annual": 0.82,
+  "ccy": "USD",
+  "fy": "2025-10-04",
+  "tag": "declared"
+ },
+ "KMB": {
+  "annual": 5.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KMI": {
+  "annual": 1.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KMPB": {
+  "annual": 1.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "KMPR": {
+  "annual": 1.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "KMT": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "KNSL": {
+  "annual": 0.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KNX": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KO": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "KOP": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KR": {
+  "annual": 1.37,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "KRC": {
+  "annual": 2.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KREF": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KREF-PA": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KRG": {
+  "annual": 1.245,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KRNY": {
+  "annual": 0.44,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "KRO": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "KRT": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "KSS": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "paid"
+ },
+ "KTB": {
+  "annual": 2.09,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "KVUE": {
+  "annual": 0.825,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "paid"
+ },
+ "KWR": {
+  "annual": 1.99,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "L": {
+  "annual": 0.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LAD": {
+  "annual": 2.18,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "LAMR": {
+  "annual": 6.45,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LARK": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "LAZ": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LBRT": {
+  "annual": 0.33,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LCII": {
+  "annual": 4.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LCNB": {
+  "annual": 0.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LCUT": {
+  "annual": 0.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LDOS": {
+  "annual": 1.63,
+  "ccy": "USD",
+  "fy": "2026-01-02",
+  "tag": "declared"
+ },
+ "LEA": {
+  "annual": 0.77,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LECO": {
+  "annual": 3.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LEVI": {
+  "annual": 0.54,
+  "ccy": "USD",
+  "fy": "2025-11-30",
+  "tag": "paid"
+ },
+ "LFT": {
+  "annual": 0.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LFT-PA": {
+  "annual": 0.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LFUS": {
+  "annual": 2.9,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "paid"
+ },
+ "LFVN": {
+  "annual": 0.185,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "LH": {
+  "annual": 2.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "LHX": {
+  "annual": 4.8,
+  "ccy": "USD",
+  "fy": "2026-01-02",
+  "tag": "paid"
+ },
+ "LII": {
+  "annual": 5.05,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LIN": {
+  "annual": 6.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LINE": {
+  "annual": 2.11,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LKFN": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LLY": {
+  "annual": 6.23,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LMAT": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LMNR": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "declared"
+ },
+ "LMT": {
+  "annual": 13.35,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LNC": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LNC-PD": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LNN": {
+  "annual": 1.45,
+  "ccy": "USD",
+  "fy": "2025-08-31",
+  "tag": "declared"
+ },
+ "LNT": {
+  "annual": 2.03,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "LOB": {
+  "annual": 0.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "LOB-PA": {
+  "annual": 0.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "LOGI": {
+  "annual": 1.58,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "LOW": {
+  "annual": 4.75,
+  "ccy": "USD",
+  "fy": "2026-01-30",
+  "tag": "declared"
+ },
+ "LPG": {
+  "annual": 2.45,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "paid"
+ },
+ "LPLA": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "LPX": {
+  "annual": 0.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "LRCX": {
+  "annual": 1.04,
+  "ccy": "USD",
+  "fy": "2026-06-28",
+  "tag": "declared"
+ },
+ "LSBK": {
+  "annual": 0.31,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LSTR": {
+  "annual": 3.56,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "declared"
+ },
+ "LTC": {
+  "annual": 2.28,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "LUV": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LVS": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LW": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "declared"
+ },
+ "LXP": {
+  "annual": 2.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LXP-PC": {
+  "annual": 2.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LYB": {
+  "annual": 5.45,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "LYTS": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "LZB": {
+  "annual": 0.763,
+  "ccy": "USD",
+  "fy": "2026-04-25",
+  "tag": "declared"
+ },
+ "M": {
+  "annual": 0.73,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "MA": {
+  "annual": 3.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MAA": {
+  "annual": 6.075,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MAC": {
+  "annual": 0.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MAIN": {
+  "annual": 4.23,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MAN": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MAR": {
+  "annual": 2.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MAS": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MATV": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MATW": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "MATX": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MBIN": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MBINL": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MBINM": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MBINN": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MBWM": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MCB": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MCBS": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MCD": {
+  "annual": 7.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MCHP": {
+  "annual": 1.82,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "MCHPP": {
+  "annual": 1.82,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "MCK": {
+  "annual": 3.17,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "MCO": {
+  "annual": 3.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MCRI": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MCY": {
+  "annual": 1.27,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MDLZ": {
+  "annual": 1.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MDRR": {
+  "annual": 0.2675,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MDT": {
+  "annual": 2.84,
+  "ccy": "USD",
+  "fy": "2026-04-24",
+  "tag": "declared"
+ },
+ "MDU": {
+  "annual": 0.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MEI": {
+  "annual": 0.22,
+  "ccy": "USD",
+  "fy": "2026-05-02",
+  "tag": "paid"
+ },
+ "MER-PK": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MERC": {
+  "annual": 0.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MET": {
+  "annual": 2.248,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MET-PA": {
+  "annual": 2.248,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MET-PE": {
+  "annual": 2.248,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MET-PF": {
+  "annual": 2.248,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "META": {
+  "annual": 2.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MFA": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MFA-PB": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MFA-PC": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MFAN": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MFAO": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MGA": {
+  "annual": 1.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MGEE": {
+  "annual": 1.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MGPI": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MGR": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MGRB": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MGRC": {
+  "annual": 1.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MGRD": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MGRE": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MGY": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MGYR": {
+  "annual": 0.29,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "MITN": {
+  "annual": 0.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MITP": {
+  "annual": 0.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MITT": {
+  "annual": 0.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MITT-PA": {
+  "annual": 0.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MITT-PB": {
+  "annual": 0.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MITT-PC": {
+  "annual": 0.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MKC": {
+  "annual": 1.83,
+  "ccy": "USD",
+  "fy": "2025-11-30",
+  "tag": "declared"
+ },
+ "MKC-V": {
+  "annual": 1.83,
+  "ccy": "USD",
+  "fy": "2025-11-30",
+  "tag": "declared"
+ },
+ "MKSI": {
+  "annual": 0.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MKTX": {
+  "annual": 3.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MLAB": {
+  "annual": 0.64,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "paid"
+ },
+ "MLCI": {
+  "annual": 0.06,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MLCIL": {
+  "annual": 0.06,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MLI": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "declared"
+ },
+ "MLKN": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2026-05-30",
+  "tag": "declared"
+ },
+ "MLM": {
+  "annual": 3.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MLR": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MMM": {
+  "annual": 2.92,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MMS": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "MNDO": {
+  "annual": 0.22,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MNESP": {
+  "annual": 2.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MNRO": {
+  "annual": 1.12,
+  "ccy": "USD",
+  "fy": "2026-03-28",
+  "tag": "paid"
+ },
+ "MNSB": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MNSBP": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MO": {
+  "annual": 4.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MOG-A": {
+  "annual": 1.15,
+  "ccy": "USD",
+  "fy": "2025-09-27",
+  "tag": "declared"
+ },
+ "MOG-B": {
+  "annual": 1.15,
+  "ccy": "USD",
+  "fy": "2025-09-27",
+  "tag": "declared"
+ },
+ "MORN": {
+  "annual": 1.87,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MOS": {
+  "annual": 0.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MOV": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "MOVAA": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "MPB": {
+  "annual": 0.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MPC": {
+  "annual": 3.73,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MPT": {
+  "annual": 0.33,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MPWR": {
+  "annual": 6.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MRBK": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MRK": {
+  "annual": 3.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MRP": {
+  "annual": 2.55,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MRSH": {
+  "annual": 3.43,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MRTN": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MRVL": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "MS": {
+  "annual": 3.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MS-PA": {
+  "annual": 3.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MS-PE": {
+  "annual": 3.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MS-PF": {
+  "annual": 3.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MS-PI": {
+  "annual": 3.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MS-PK": {
+  "annual": 3.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MS-PL": {
+  "annual": 3.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MS-PO": {
+  "annual": 3.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MS-PP": {
+  "annual": 3.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MS-PQ": {
+  "annual": 3.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MSA": {
+  "annual": 2.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MSBI": {
+  "annual": 1.26,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MSBIP": {
+  "annual": 1.26,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MSCI": {
+  "annual": 7.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MSEX": {
+  "annual": 1.38,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MSEXP": {
+  "annual": 1.38,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MSFT": {
+  "annual": 3.64,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "MSGS": {
+  "annual": 7.0,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "MSI": {
+  "annual": 4.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MSIF": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MTB": {
+  "annual": 5.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MTB-PH": {
+  "annual": 5.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MTB-PJ": {
+  "annual": 5.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MTB-PK": {
+  "annual": 5.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MTB-PL": {
+  "annual": 5.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MTCH": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MTDR": {
+  "annual": 1.3125,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MTH": {
+  "annual": 0.43,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MTN": {
+  "annual": 8.88,
+  "ccy": "USD",
+  "fy": "2026-07-31",
+  "tag": "declared"
+ },
+ "MTRN": {
+  "annual": 0.555,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MTX": {
+  "annual": 0.45,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MU": {
+  "annual": 0.53,
+  "ccy": "USD",
+  "fy": "2026-09-03",
+  "tag": "declared"
+ },
+ "MUR": {
+  "annual": 1.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MUSA": {
+  "annual": 2.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MVBF": {
+  "annual": 0.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "MWA": {
+  "annual": 0.268,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "MXC": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "MYE": {
+  "annual": 0.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "MZTI": {
+  "annual": 3.95,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "NAT": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NATH": {
+  "annual": 4.5,
+  "ccy": "USD",
+  "fy": "2026-03-29",
+  "tag": "paid"
+ },
+ "NAVI": {
+  "annual": 0.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NBHC": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NBTB": {
+  "annual": 1.42,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NC": {
+  "annual": 0.985,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NCMI": {
+  "annual": 0.12,
+  "ccy": "USD",
+  "fy": "2026-01-01",
+  "tag": "declared"
+ },
+ "NDAQ": {
+  "annual": 1.05,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NDSN": {
+  "annual": 3.16,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "declared"
+ },
+ "NE": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NE-WT": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NE-WTA": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NECB": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NEE": {
+  "annual": 2.27,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NEE-PN": {
+  "annual": 2.27,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NEE-PS": {
+  "annual": 2.27,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NEE-PT": {
+  "annual": 2.27,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NEE-PU": {
+  "annual": 2.27,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NEE-PV": {
+  "annual": 2.27,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NEE-PW": {
+  "annual": 2.27,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NEM": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NEMCL": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NEU": {
+  "annual": 11.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NEWT": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NEWTG": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NEWTH": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NEWTI": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NEWTO": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NEWTP": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NFG": {
+  "annual": 2.1,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "NHC": {
+  "annual": 2.53,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NHI": {
+  "annual": 3.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NHTC": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NI": {
+  "annual": 1.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NIC": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NJR": {
+  "annual": 1.825,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "NKE": {
+  "annual": 1.63,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "declared"
+ },
+ "NKSH": {
+  "annual": 1.51,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NL": {
+  "annual": 0.57,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NLCP": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NLOP": {
+  "annual": 12.3,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NLY": {
+  "annual": 2.8,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NLY-PF": {
+  "annual": 2.8,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NLY-PG": {
+  "annual": 2.8,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NLY-PJ": {
+  "annual": 2.8,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NMFC": {
+  "annual": 1.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NMFCZ": {
+  "annual": 1.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NMRK": {
+  "annual": 0.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NNN": {
+  "annual": 2.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NOBH": {
+  "annual": 1.25,
+  "ccy": "USD",
+  "fy": "2025-11-01",
+  "tag": "declared"
+ },
+ "NOC": {
+  "annual": 8.99,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NOV": {
+  "annual": 0.51,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NPB": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NPO": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NRC": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NREF": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NREF-PA": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NRG": {
+  "annual": 1.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NRIM": {
+  "annual": 0.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NSC": {
+  "annual": 5.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NSSC": {
+  "annual": 0.58,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "NTAP": {
+  "annual": 2.08,
+  "ccy": "USD",
+  "fy": "2026-04-24",
+  "tag": "declared"
+ },
+ "NTB": {
+  "annual": 1.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NTIC": {
+  "annual": 0.16,
+  "ccy": "USD",
+  "fy": "2025-08-31",
+  "tag": "declared"
+ },
+ "NTIP": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NTRS": {
+  "annual": 3.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NTRSO": {
+  "annual": 3.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NTST": {
+  "annual": 0.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NUE": {
+  "annual": 2.21,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NVDA": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2026-01-25",
+  "tag": "declared"
+ },
+ "NVEC": {
+  "annual": 4.0,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "NVT": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NWBI": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NWE": {
+  "annual": 2.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NWFL": {
+  "annual": 1.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NWL": {
+  "annual": 0.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NWN": {
+  "annual": 1.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "NWPP": {
+  "annual": 0.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NX": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "paid"
+ },
+ "NXDT": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NXDT-PA": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NXPI": {
+  "annual": 4.056,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NXRT": {
+  "annual": 2.06,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NXST": {
+  "annual": 7.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "NYT": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "O": {
+  "annual": 3.217,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "OAK-PA": {
+  "annual": 2.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OAK-PB": {
+  "annual": 2.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OBK": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OBT": {
+  "annual": 0.57,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "OC": {
+  "annual": 2.86,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OCFC": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ODC": {
+  "annual": 0.815,
+  "ccy": "USD",
+  "fy": "2026-07-31",
+  "tag": "declared"
+ },
+ "ODFL": {
+  "annual": 1.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OEC": {
+  "annual": 0.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OFG": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "OFLX": {
+  "annual": 1.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OGE": {
+  "annual": 1.6925,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OGN": {
+  "annual": 0.34,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OGS": {
+  "annual": 2.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OHI": {
+  "annual": 2.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OKE": {
+  "annual": 4.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "OLED": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OLP": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OMC": {
+  "annual": 2.9,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OMF": {
+  "annual": 4.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ONB": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ONBPO": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ONBPP": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OPBK": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OPFI": {
+  "annual": 0.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OPI": {
+  "annual": 0.02,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "OPY": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ORA": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ORC": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ORCL": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "paid"
+ },
+ "ORCL-PD": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "paid"
+ },
+ "ORI": {
+  "annual": 3.66,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ORMP": {
+  "annual": 0.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ORRF": {
+  "annual": 1.06,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "OSBC": {
+  "annual": 0.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OSK": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OSPN": {
+  "annual": 0.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OTEX": {
+  "annual": 1.1,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "OTIS": {
+  "annual": 1.65,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "OTTR": {
+  "annual": 2.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OUT": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OVBC": {
+  "annual": 0.91,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "OVLY": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OVV": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OWL": {
+  "annual": 0.855,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "OXM": {
+  "annual": 2.76,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "OXY": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "OXY-WT": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PAG": {
+  "annual": 5.18,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PAHC": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "PANL": {
+  "annual": 0.05,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PAYC": {
+  "annual": 0.375,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PAYX": {
+  "annual": 4.43,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "declared"
+ },
+ "PBHC": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PBI": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PBI-PB": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PCAR": {
+  "annual": 2.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PCB": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PDM": {
+  "annual": 0.125,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PEBK": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PEBO": {
+  "annual": 1.63,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PECO": {
+  "annual": 1.2532,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PEG": {
+  "annual": 2.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PEGA": {
+  "annual": 0.105,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PEP": {
+  "annual": 5.6225,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "declared"
+ },
+ "PFBX": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PFE": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PFG": {
+  "annual": 3.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PFH": {
+  "annual": 5.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PFIS": {
+  "annual": 2.47,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PFS": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PFSI": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PG": {
+  "annual": 4.2589,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "PGR": {
+  "annual": 13.9,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PH": {
+  "annual": 7.4,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "PHIN": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PHM": {
+  "annual": 0.92,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PII": {
+  "annual": 2.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PINE": {
+  "annual": 1.14,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PINE-PA": {
+  "annual": 1.14,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PIPR": {
+  "annual": 5.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PK": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PKBK": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PKG": {
+  "annual": 5.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PKOH": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PLBC": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PLD": {
+  "annual": 0.03,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PLDGP": {
+  "annual": 0.03,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PLGO": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PLOW": {
+  "annual": 1.18,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PLPC": {
+  "annual": 0.81,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PLTK": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PLUS": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "paid"
+ },
+ "PM": {
+  "annual": 5.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PMT": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PMT-PA": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PMT-PB": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PMT-PC": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PMTU": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PMTV": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PMTW": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PNC": {
+  "annual": 6.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PNFP": {
+  "annual": 1.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PNFP-PA": {
+  "annual": 1.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PNFP-PB": {
+  "annual": 1.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PNFP-PC": {
+  "annual": 1.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PNR": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PNW": {
+  "annual": 3.61,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "POOL": {
+  "annual": 4.95,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "POR": {
+  "annual": 2.075,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "POWL": {
+  "annual": 1.0675,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "PPG": {
+  "annual": 2.78,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PPL": {
+  "annual": 1.09,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PPLC": {
+  "annual": 1.09,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PR": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PRDO": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PRG": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PRGO": {
+  "annual": 1.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PRH": {
+  "annual": 5.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PRI": {
+  "annual": 4.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PRIM": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PRK": {
+  "annual": 5.53,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PRMB": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PROV": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "PRS": {
+  "annual": 5.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PRU": {
+  "annual": 5.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PF": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PG": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PH": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PI": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PJ": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PK": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PL": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PM": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PN": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PO": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PP": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PQ": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PR": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PS": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PT": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSA-PU": {
+  "annual": 12.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSMT": {
+  "annual": 1.26,
+  "ccy": "USD",
+  "fy": "2025-08-31",
+  "tag": "declared"
+ },
+ "PSTL": {
+  "annual": 0.97,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PSX": {
+  "annual": 4.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PTEN": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "PVH": {
+  "annual": 0.15,
+  "ccy": "USD",
+  "fy": "2026-02-01",
+  "tag": "declared"
+ },
+ "PWR": {
+  "annual": 0.41,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PYPL": {
+  "annual": 0.14,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "PZZA": {
+  "annual": 1.84,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "declared"
+ },
+ "Q": {
+  "annual": 0.14,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "QCOM": {
+  "annual": 3.48,
+  "ccy": "USD",
+  "fy": "2025-09-28",
+  "tag": "declared"
+ },
+ "QCRH": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "QGEN": {
+  "annual": 0.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "QNBC": {
+  "annual": 1.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "QNTO": {
+  "annual": 0.34,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "QSR": {
+  "annual": 2.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "QUAD": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "R": {
+  "annual": 3.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RAL": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RBB": {
+  "annual": 0.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RC": {
+  "annual": 0.385,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RC-PC": {
+  "annual": 0.385,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RC-PE": {
+  "annual": 0.385,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RCD": {
+  "annual": 0.385,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RCKY": {
+  "annual": 0.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "RCL": {
+  "annual": 3.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RDN": {
+  "annual": 1.02,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "REFI": {
+  "annual": 1.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "REG": {
+  "annual": 2.87,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "REGCO": {
+  "annual": 2.87,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "REGCP": {
+  "annual": 2.87,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RES": {
+  "annual": 0.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "REXR": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "REXR-PB": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "REXR-PC": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "REYN": {
+  "annual": 0.92,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RF": {
+  "annual": 1.03,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RF-PC": {
+  "annual": 1.03,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RF-PE": {
+  "annual": 1.03,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RF-PF": {
+  "annual": 1.03,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RGA": {
+  "annual": 3.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RGCO": {
+  "annual": 0.83,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "RGLD": {
+  "annual": 1.825,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RGP": {
+  "annual": 0.28,
+  "ccy": "USD",
+  "fy": "2026-05-30",
+  "tag": "declared"
+ },
+ "RGR": {
+  "annual": 0.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RHI": {
+  "annual": 2.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RHP": {
+  "annual": 4.65,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RICK": {
+  "annual": 0.28,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "RITM": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RITM-PA": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RITM-PB": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RITM-PC": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RITM-PD": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RITM-PE": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RITM-PF": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RJF": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "RL": {
+  "annual": 3.65,
+  "ccy": "USD",
+  "fy": "2026-03-28",
+  "tag": "declared"
+ },
+ "RLI": {
+  "annual": 2.63,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "RLJ": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RLJ-PA": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RLX": {
+  "annual": 0.11,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RM": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RMBI": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RMD": {
+  "annual": 2.4,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "RNGR": {
+  "annual": 0.06,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RNST": {
+  "annual": 0.89,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ROK": {
+  "annual": 5.24,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "ROL": {
+  "annual": 0.6775,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ROP": {
+  "annual": 3.39,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ROST": {
+  "annual": 1.62,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "RPC": {
+  "annual": 0.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "RPT": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RPT-PC": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RRBI": {
+  "annual": 0.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "RRC": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "RRX": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RS": {
+  "annual": 4.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RSG": {
+  "annual": 2.41,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RSKIA": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2026-04-30",
+  "tag": "declared"
+ },
+ "RSMDF": {
+  "annual": 2.4,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "RTX": {
+  "annual": 2.67,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RUSHA": {
+  "annual": 0.74,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RUSHB": {
+  "annual": 0.74,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RVRF": {
+  "annual": 0.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RVSB": {
+  "annual": 0.08,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "paid"
+ },
+ "RVTY": {
+  "annual": 0.28,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "declared"
+ },
+ "RWT": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RWT-PA": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RWTN": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RWTO": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RWTP": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RWTQ": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RWTS": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RYN": {
+  "annual": 2.49,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "RYZ": {
+  "annual": 0.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "RZC": {
+  "annual": 3.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SAFE": {
+  "annual": 0.708,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SAFT": {
+  "annual": 3.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SAIC": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "flag": "freq_fixed",
+  "fy": "2026-01-30",
+  "tag": "paid"
+ },
+ "SB": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SB-PC": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SB-PD": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SBCF": {
+  "annual": 0.73,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SBFG": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SBLK": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SBRA": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SBSI": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SBUX": {
+  "annual": 2.45,
+  "ccy": "USD",
+  "fy": "2025-09-28",
+  "tag": "declared"
+ },
+ "SCCO": {
+  "annual": 3.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SCHL": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "declared"
+ },
+ "SCHW": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SCHW-PD": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SCHW-PJ": {
+  "annual": 1.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SCI": {
+  "annual": 1.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SCL": {
+  "annual": 1.55,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SCM": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SDEV": {
+  "annual": 4.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SEB": {
+  "annual": 9.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SEI": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SEIC": {
+  "annual": 1.01,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SELF": {
+  "annual": 0.29,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SEVN": {
+  "annual": 1.26,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SF": {
+  "annual": 1.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SF-PB": {
+  "annual": 1.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SF-PC": {
+  "annual": 1.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SF-PD": {
+  "annual": 1.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SFB": {
+  "annual": 1.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SFBC": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SFBS": {
+  "annual": 0.38,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SFD": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "declared"
+ },
+ "SFDL": {
+  "annual": 0.71,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SFL": {
+  "annual": 0.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SFNC": {
+  "annual": 0.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SGA": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SGC": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SGI": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SHBI": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SHEN": {
+  "annual": 0.11,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SHIP": {
+  "annual": 0.33,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SHO": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SHO-PH": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SHO-PI": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SHOE": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "SHOO": {
+  "annual": 0.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SHW": {
+  "annual": 3.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SIG": {
+  "annual": 1.28,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "paid"
+ },
+ "SIGA": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SIGI": {
+  "annual": 1.57,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SIGIP": {
+  "annual": 1.57,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SIMO": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SITC": {
+  "annual": 6.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SJM": {
+  "annual": 4.4,
+  "ccy": "USD",
+  "fy": "2026-04-30",
+  "tag": "declared"
+ },
+ "SLBK": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SLG": {
+  "annual": 3.09,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SLG-PI": {
+  "annual": 3.09,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SLGN": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SLM": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SLMBP": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SLVM": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SM": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SMBC": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "SMBK": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SMG": {
+  "annual": 2.64,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "SMP": {
+  "annual": 1.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SNA": {
+  "annual": 8.86,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "SND": {
+  "annual": 0.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SNDR": {
+  "annual": 0.38,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SNX": {
+  "annual": 1.76,
+  "ccy": "USD",
+  "fy": "2025-11-30",
+  "tag": "declared"
+ },
+ "SO": {
+  "annual": 2.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SOJC": {
+  "annual": 2.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SOJD": {
+  "annual": 2.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SOJE": {
+  "annual": 2.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SOJF": {
+  "annual": 2.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SOMN": {
+  "annual": 2.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SON": {
+  "annual": 2.11,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SPB": {
+  "annual": 1.88,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "SPFI": {
+  "annual": 0.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SPG": {
+  "annual": 8.55,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SPG-PJ": {
+  "annual": 8.55,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SPGI": {
+  "annual": 3.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SPOK": {
+  "annual": 1.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SR": {
+  "annual": 3.14,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "SRBK": {
+  "annual": 0.21,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "SRCE": {
+  "annual": 1.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SRE": {
+  "annual": 2.58,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SREA": {
+  "annual": 2.58,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SRJN": {
+  "annual": 3.14,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "SSB": {
+  "annual": 2.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SSD": {
+  "annual": 1.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SSNC": {
+  "annual": 1.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SSTK": {
+  "annual": 1.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "STAG": {
+  "annual": 1.49,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "STBA": {
+  "annual": 1.38,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "STC": {
+  "annual": 2.05,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "STE": {
+  "annual": 2.46,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "STEP": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "STLD": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "STLE": {
+  "annual": 1.49,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "STM": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "STMEF": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "STRA": {
+  "annual": 2.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "STT": {
+  "annual": 3.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "STT-PG": {
+  "annual": 3.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "STWD": {
+  "annual": 1.92,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "STX": {
+  "annual": 2.94,
+  "ccy": "USD",
+  "fy": "2026-07-03",
+  "tag": "declared"
+ },
+ "SUI": {
+  "annual": 7.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SUNB": {
+  "annual": 1.1,
+  "ccy": "USD",
+  "fy": "2026-04-30",
+  "tag": "declared"
+ },
+ "SUNS": {
+  "annual": 1.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SVA": {
+  "annual": 55.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SVC": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SW": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SWBI": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2026-04-30",
+  "tag": "declared"
+ },
+ "SWK": {
+  "annual": 3.3,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "SWKHL": {
+  "annual": 4.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SWKS": {
+  "annual": 2.81,
+  "ccy": "USD",
+  "fy": "2025-10-03",
+  "tag": "declared"
+ },
+ "SWX": {
+  "annual": 2.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SXI": {
+  "annual": 1.34,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "SXT": {
+  "annual": 1.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "SYBT": {
+  "annual": 1.26,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SYF": {
+  "annual": 1.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SYF-PA": {
+  "annual": 1.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SYF-PB": {
+  "annual": 1.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "SYY": {
+  "annual": 2.17,
+  "ccy": "USD",
+  "fy": "2026-06-27",
+  "tag": "declared"
+ },
+ "T": {
+  "annual": 1.11,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "T-PA": {
+  "annual": 1.11,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "T-PC": {
+  "annual": 1.11,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TAP": {
+  "annual": 1.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TAP-A": {
+  "annual": 1.88,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TBB": {
+  "annual": 1.11,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TCBK": {
+  "annual": 1.38,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TCBS": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TCPC": {
+  "annual": 1.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TDS": {
+  "annual": 0.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TDS-PU": {
+  "annual": 0.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TDS-PV": {
+  "annual": 0.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TECH": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "TEL": {
+  "annual": 2.72,
+  "ccy": "USD",
+  "fy": "2025-09-26",
+  "tag": "paid"
+ },
+ "TEN": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TEN-PE": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TEN-PF": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TER": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "TFC": {
+  "annual": 2.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TFC-PI": {
+  "annual": 2.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TFC-PO": {
+  "annual": 2.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TFC-PR": {
+  "annual": 2.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TFSL": {
+  "annual": 1.13,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "TFX": {
+  "annual": 1.36,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TGT": {
+  "annual": 4.54,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "THFF": {
+  "annual": 2.09,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "THO": {
+  "annual": 2.08,
+  "ccy": "USD",
+  "fy": "2026-07-31",
+  "tag": "declared"
+ },
+ "TIC": {
+  "annual": 10.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TICAW": {
+  "annual": 10.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TILE": {
+  "annual": 0.06,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "declared"
+ },
+ "TIPT": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TJX": {
+  "annual": 1.7,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "TKR": {
+  "annual": 1.39,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TMO": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TMP": {
+  "annual": 3.13,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TMUS": {
+  "annual": 3.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TMUSI": {
+  "annual": 3.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TMUSL": {
+  "annual": 3.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TMUSZ": {
+  "annual": 3.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TNC": {
+  "annual": 1.195,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "TNET": {
+  "annual": 0.275,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TNK": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TNL": {
+  "annual": 2.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "TOL": {
+  "annual": 0.98,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "declared"
+ },
+ "TPB": {
+  "annual": 0.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "TPC": {
+  "annual": 0.06,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TPG": {
+  "annual": 1.98,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TPGXL": {
+  "annual": 1.98,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TPL": {
+  "annual": 2.13,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "TPR": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2026-06-27",
+  "tag": "declared"
+ },
+ "TPTS": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TRGP": {
+  "annual": 3.75,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TRMK": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "TRN": {
+  "annual": 1.21,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TRNO": {
+  "annual": 2.02,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TROW": {
+  "annual": 5.08,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TROX": {
+  "annual": 0.35,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TRS": {
+  "annual": 0.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "TRST": {
+  "annual": 1.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TRTX": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TRTX-PC": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TRU": {
+  "annual": 0.46,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "TSBK": {
+  "annual": 1.02,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "TSCO": {
+  "annual": 0.92,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "declared"
+ },
+ "TSEOQ": {
+  "annual": 0.02,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TSQ": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TT": {
+  "annual": 3.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TTC": {
+  "annual": 1.52,
+  "ccy": "USD",
+  "fy": "2025-10-31",
+  "tag": "paid"
+ },
+ "TTEK": {
+  "annual": 0.246,
+  "ccy": "USD",
+  "fy": "2025-09-28",
+  "tag": "declared"
+ },
+ "TW": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TWIN": {
+  "annual": 0.16,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "TWOD": {
+  "annual": 1.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TXN": {
+  "annual": 5.5,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TXNM": {
+  "annual": 1.65,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "TXRH": {
+  "annual": 2.72,
+  "ccy": "USD",
+  "fy": "2025-12-30",
+  "tag": "declared"
+ },
+ "TXT": {
+  "annual": 0.08,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "TYFG": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UBCP": {
+  "annual": 0.92,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UBSI": {
+  "annual": 1.49,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UCB": {
+  "annual": 0.98,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "UDR": {
+  "annual": 1.72,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "UE": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "UFCS": {
+  "annual": 0.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "UFPI": {
+  "annual": 1.4,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "declared"
+ },
+ "UGI": {
+  "annual": 1.5,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "UHS": {
+  "annual": 0.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UHT": {
+  "annual": 2.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UI": {
+  "annual": 3.2,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "paid"
+ },
+ "ULH": {
+  "annual": 0.42,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ULS": {
+  "annual": 0.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UMBF": {
+  "annual": 1.63,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UMBFO": {
+  "annual": 1.63,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UMH": {
+  "annual": 0.89,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UMH-PD": {
+  "annual": 0.89,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UNB": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "UNH": {
+  "annual": 8.73,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UNM": {
+  "annual": 1.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UNMA": {
+  "annual": 1.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UNP": {
+  "annual": 5.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "UNTY": {
+  "annual": 0.58,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UPBD": {
+  "annual": 1.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "UPS": {
+  "annual": 6.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "URI": {
+  "annual": 7.16,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "USB": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "USB-PA": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "USB-PH": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "USB-PP": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "USB-PQ": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "USB-PR": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "USB-PS": {
+  "annual": 2.04,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "USLM": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "USPH": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "UTL": {
+  "annual": 1.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "UVE": {
+  "annual": 0.77,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "UVSP": {
+  "annual": 0.87,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "UVV": {
+  "annual": 3.28,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "UZD": {
+  "annual": 23.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UZE": {
+  "annual": 23.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "UZF": {
+  "annual": 23.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "V": {
+  "annual": 0.59,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "VABK": {
+  "annual": 1.41,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "VAC": {
+  "annual": 3.17,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VC": {
+  "annual": 0.375,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VCTR": {
+  "annual": 1.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VFC": {
+  "annual": 0.36,
+  "ccy": "USD",
+  "fy": "2026-03-28",
+  "tag": "declared"
+ },
+ "VG": {
+  "annual": 0.03,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VHI": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "VICI": {
+  "annual": 1.765,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VIRC": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "VIRT": {
+  "annual": 0.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VLO": {
+  "annual": 4.52,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "VLY": {
+  "annual": 0.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VLYPN": {
+  "annual": 0.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VLYPO": {
+  "annual": 0.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VLYPP": {
+  "annual": 0.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VMC": {
+  "annual": 1.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VMI": {
+  "annual": 2.72,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "paid"
+ },
+ "VMRK": {
+  "annual": 2.77,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VNO": {
+  "annual": 0.74,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VNO-PL": {
+  "annual": 0.74,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VNO-PM": {
+  "annual": 0.74,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VNO-PN": {
+  "annual": 0.74,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VNO-PO": {
+  "annual": 0.74,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VNORP": {
+  "annual": 0.74,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VNT": {
+  "annual": 0.1,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VOYA": {
+  "annual": 1.82,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VOYA-PB": {
+  "annual": 1.82,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VRSN": {
+  "annual": 2.31,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "VRTS": {
+  "annual": 9.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VSEC": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VSECU": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VSH": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VST": {
+  "annual": 0.9015,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "VSTS": {
+  "annual": 0.035,
+  "ccy": "USD",
+  "fy": "2025-10-03",
+  "tag": "declared"
+ },
+ "VTR": {
+  "annual": 1.92,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VTRS": {
+  "annual": 0.48,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "VTS": {
+  "annual": 2.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VYLD": {
+  "annual": 5.8,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "VZ": {
+  "annual": 2.735,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WAB": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WABC": {
+  "annual": 1.82,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WAFD": {
+  "annual": 1.07,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "WAFDP": {
+  "annual": 1.07,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "WAL": {
+  "annual": 1.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WAL-PA": {
+  "annual": 1.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WASH": {
+  "annual": 2.24,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WBHC": {
+  "annual": 2.25,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WCN": {
+  "annual": 1.295,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WD": {
+  "annual": 2.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WDC": {
+  "annual": 0.5,
+  "ccy": "USD",
+  "fy": "2026-07-03",
+  "tag": "declared"
+ },
+ "WDFC": {
+  "annual": 3.7,
+  "ccy": "USD",
+  "fy": "2025-08-31",
+  "tag": "paid"
+ },
+ "WEC": {
+  "annual": 3.57,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WELL": {
+  "annual": 2.82,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WEN": {
+  "annual": 0.67,
+  "ccy": "USD",
+  "fy": "2025-12-28",
+  "tag": "paid"
+ },
+ "WERN": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WEYS": {
+  "annual": 3.07,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WFC": {
+  "annual": 1.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WFC-PA": {
+  "annual": 1.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WFC-PC": {
+  "annual": 1.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WFC-PD": {
+  "annual": 1.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WFC-PL": {
+  "annual": 1.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WFC-PY": {
+  "annual": 1.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WFC-PZ": {
+  "annual": 1.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WFCNP": {
+  "annual": 1.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WFRD": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WGO": {
+  "annual": 1.37,
+  "ccy": "USD",
+  "fy": "2025-08-30",
+  "tag": "declared"
+ },
+ "WH": {
+  "annual": 1.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WHD": {
+  "annual": 0.54,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WHF": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WHFCL": {
+  "annual": 1.44,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WHR": {
+  "annual": 5.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WHR-PA": {
+  "annual": 5.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WING": {
+  "annual": 1.14,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "declared"
+ },
+ "WKC": {
+  "annual": 0.77,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WLFC": {
+  "annual": 1.15,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WLK": {
+  "annual": 2.11,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WM": {
+  "annual": 3.3,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WMB": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WMG": {
+  "annual": 0.73,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "WMK": {
+  "annual": 1.36,
+  "ccy": "USD",
+  "fy": "2025-12-27",
+  "tag": "declared"
+ },
+ "WMS": {
+  "annual": 0.72,
+  "ccy": "USD",
+  "fy": "2026-03-31",
+  "tag": "declared"
+ },
+ "WMT": {
+  "annual": 0.94,
+  "ccy": "USD",
+  "fy": "2026-01-31",
+  "tag": "declared"
+ },
+ "WNC": {
+  "annual": 0.32,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WNEB": {
+  "annual": 0.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WOR": {
+  "annual": 0.76,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "declared"
+ },
+ "WPC": {
+  "annual": 3.62,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WRB": {
+  "annual": 1.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WRB-PE": {
+  "annual": 1.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WRB-PF": {
+  "annual": 1.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WRB-PG": {
+  "annual": 1.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WRB-PH": {
+  "annual": 1.85,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WS": {
+  "annual": 0.64,
+  "ccy": "USD",
+  "fy": "2026-05-31",
+  "tag": "declared"
+ },
+ "WSBC": {
+  "annual": 1.49,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WSBCO": {
+  "annual": 1.49,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WSBF": {
+  "annual": 0.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WSFS": {
+  "annual": 0.66,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WSM": {
+  "annual": 2.64,
+  "ccy": "USD",
+  "fy": "2026-02-01",
+  "tag": "declared"
+ },
+ "WSO": {
+  "annual": 11.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WSO-B": {
+  "annual": 11.7,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WST": {
+  "annual": 0.86,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WT": {
+  "annual": 0.12,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WTBA": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WTFC": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WTFCN": {
+  "annual": 2.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WTM": {
+  "annual": 1.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WTRG": {
+  "annual": 3.31,
+  "ccy": "USD",
+  "flag": "conflict",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WTS": {
+  "annual": 1.99,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "WTW": {
+  "annual": 3.68,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WU": {
+  "annual": 0.94,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "WWD": {
+  "annual": 1.09,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "paid"
+ },
+ "WWW": {
+  "annual": 0.4,
+  "ccy": "USD",
+  "fy": "2026-01-03",
+  "tag": "declared"
+ },
+ "WY": {
+  "annual": 0.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "XEL": {
+  "annual": 2.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "XELLL": {
+  "annual": 2.28,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "XHR": {
+  "annual": 0.56,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "XOM": {
+  "annual": 4.0,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "XRAY": {
+  "annual": 0.64,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "XRX": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "XRXDW": {
+  "annual": 0.2,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "XYF": {
+  "annual": 0.0887,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "XYL": {
+  "annual": 1.6,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "YORW": {
+  "annual": 0.8856,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "YUM": {
+  "annual": 2.84,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "YUMC": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ZARE": {
+  "annual": 0.407,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ZBH": {
+  "annual": 0.96,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ },
+ "ZION": {
+  "annual": 1.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ZIONP": {
+  "annual": 1.76,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ZKIN": {
+  "annual": 1.41,
+  "ccy": "USD",
+  "fy": "2025-09-30",
+  "tag": "declared"
+ },
+ "ZTS": {
+  "annual": 2.03,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "paid"
+ },
+ "ZWS": {
+  "annual": 0.38,
+  "ccy": "USD",
+  "fy": "2025-12-31",
+  "tag": "declared"
+ }
+}
