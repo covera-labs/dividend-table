@@ -23,9 +23,19 @@ def dividend_zip(annual, interim, table, cur_issued, prev_issued):
     return make_zip(rows, audit=False)
 
 
-def doc(doc_id, sec, day, kind="120", name="会社"):
+def doc(doc_id, sec, day, kind="120", name="会社", period_end="2026-03-31"):
     return {"docID": doc_id, "docTypeCode": kind, "ordinanceCode": "010", "secCode": sec, "csvFlag": "1",
-            "withdrawalStatus": "0", "submitDateTime": f"{day} 15:00", "periodEnd": "2026-03-31", "filerName": name}
+            "withdrawalStatus": "0", "submitDateTime": f"{day} 15:00", "periodEnd": period_end, "filerName": name}
+
+
+def dei(zip_args, fy_end):
+    """決算期末（表紙情報）を足したZIP"""
+    annual, interim, table, cur, prev = zip_args
+    rows = [row("DividendPaidPerShareSummaryOfBusinessResults", NC, "当期", str(annual)),
+            ["jpdei_cor:CurrentFiscalYearEndDateDEI", "当事業年度終了日", "FilingDateInstant", "提出日時点", "その他", "時点", "", "", fy_end],
+            row("TotalNumberOfIssuedSharesSummaryOfBusinessResults", "CurrentYearInstant_NonConsolidatedMember", "当期末", str(cur)),
+            row("TotalNumberOfIssuedSharesSummaryOfBusinessResults", "Prior1YearInstant_NonConsolidatedMember", "前期末", str(prev))]
+    return make_zip(rows, audit=False)
 
 
 class FakeClient:
@@ -153,6 +163,32 @@ class BuildTest(unittest.TestCase):
         c = FakeClient({}, {})
         run(c, self.dir, "2026-10-17", "2026-10-18", today="2026-10-20")  # 土日
         self.assertEqual(c.listed, [])
+
+    def test_correction_filing_without_period_end_takes_it_from_the_cover_information(self):
+        lists = {"2026-07-01": [doc("S2", "72030", "2026-07-01", kind="130", period_end=None)]}
+        zips = {"S2": dei((100, None, [], 13e9, 13e9), "2026-03-31")}
+        _, _, entries = run(FakeClient(lists, zips), self.dir, "2026-07-01", "2026-07-01", today="2026-10-18")
+        self.assertEqual(entries["7203"]["fy"], "2026-03-31")
+
+    def test_correction_filing_without_any_period_inherits_the_previous_one(self):
+        lists = {"2026-06-10": [doc("S1", "72030", "2026-06-10")],
+                 "2026-07-01": [doc("S2", "72030", "2026-07-01", kind="130", period_end=None)]}
+        zips = {"S1": NORMAL, "S2": dividend_zip(100, 50, [("2025-11-05", 50, 650e9), ("2026-05-08", 50, 650e9)], 13e9, 13e9)}
+        _, _, entries = run(FakeClient(lists, zips), self.dir, "2026-06-10", "2026-07-01", today="2026-10-18")
+        self.assertEqual(entries["7203"]["docType"], "130")
+        self.assertEqual(entries["7203"]["fy"], "2026-03-31")
+
+    def test_repair_fills_missing_fiscal_year_ends_once(self):
+        from scripts.build_jp import repair_fy
+        entries = {"7203": {"docId": "S2", "include": True, "fy": None}, "9984": {"docId": "S3", "include": True, "fy": "2026-03-31"},
+                   "1111": {"docId": "S4", "include": True, "fy": None}}
+        c = FakeClient({}, {"S2": dei((100, None, [], 1, 1), "2026-03-31"), "S4": NORMAL})
+        self.assertEqual(repair_fy(c, entries), (1, 1))
+        self.assertEqual(entries["7203"]["fy"], "2026-03-31")
+        self.assertTrue(entries["1111"]["fyChecked"])      # 取れなかった会社は、印を付けて、やり直さない
+        c2 = FakeClient({}, {})
+        self.assertEqual(repair_fy(c2, entries), (0, 0))
+        self.assertEqual(c2.fetched, [])
 
     def test_summarize(self):
         text = summarize({"7203": {"include": True, "flag": None, "reason": ""},

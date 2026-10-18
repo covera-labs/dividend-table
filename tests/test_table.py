@@ -31,6 +31,14 @@ class SectionTest(unittest.TestCase):
         self.assertNotIn("interim", jp["9984"])
 
 
+class MissingFyTest(unittest.TestCase):
+    def test_company_without_fy_is_listed_with_filed_and_passes_the_check(self):
+        jp = build_jp_section({"7203": entry(fy=None, filed="2026-09-30")}, "2026-10-18")
+        self.assertNotIn("fy", jp["7203"])
+        self.assertEqual(jp["7203"]["filed"], "2026-09-30")
+        self.assertEqual(validate(build_document(jp, {}, "2026-10-18T13:30:00Z")), [])
+
+
 class ValidateTest(unittest.TestCase):
     def doc(self, jp=None, us=None):
         return build_document(jp if jp is not None else build_jp_section({"7203": entry()}, "2026-10-18"),

@@ -60,7 +60,7 @@ def entry_from(doc, decision, ex):
         "docType": doc.get("docTypeCode"),
         "filed": (doc.get("submitDateTime") or "")[:10],
         "submitted": doc.get("submitDateTime") or "",
-        "fy": doc.get("periodEnd"),
+        "fy": doc.get("periodEnd") or ex.fy_end,   # 訂正報告書は、一覧に決算期が無いので、CSVの表紙情報から取る
         "name": (doc.get("filerName") or "")[:40],
         "include": decision.include,
         "flag": decision.flag,
@@ -84,6 +84,33 @@ def is_newer(doc, current):
     return doc.get("docTypeCode") == "130"
 
 
+def repair_fy(client, entries, max_repair=300, max_consecutive_failures=4):
+    """決算期が欠けている結果（訂正報告書で、一覧に決算期が無かったもの）を、CSVの表紙情報で埋める。1回だけ試す"""
+    repaired = failed = consecutive = 0
+    for key, e in sorted(entries.items()):
+        if repaired + failed >= max_repair:
+            break
+        if e.get("fy") or e.get("fyChecked") or not e.get("docId"):
+            continue
+        try:
+            zb = client.fetch_csv_zip(e["docId"])
+            consecutive = 0
+        except EdinetError:
+            failed += 1
+            consecutive += 1
+            if consecutive >= max_consecutive_failures:
+                break
+            continue
+        ex = extract(read_rows(zb)) if zb else None
+        if ex and ex.fy_end:
+            e["fy"] = ex.fy_end
+            repaired += 1
+        else:
+            e["fyChecked"] = True   # 取れなかった。毎日やり直さない
+            failed += 1
+    return repaired, failed
+
+
 def run(client, data_dir, start, end, max_docs=600, rescan_days=3, today=None, max_consecutive_failures=4):
     p = lambda name: os.path.join(data_dir, name)
     entries = load_json(p("entries.json"), {})
@@ -96,6 +123,7 @@ def run(client, data_dir, start, end, max_docs=600, rescan_days=3, today=None, m
     consecutive = 0
     stopped = None
     try:
+        stats["fy_repaired"], stats["fy_repair_failed"] = repair_fy(client, entries)
         for day in weekdays(start, end):
             if day in done_days and day not in recent:
                 stats["days_skipped"] += 1
@@ -141,7 +169,10 @@ def run(client, data_dir, start, end, max_docs=600, rescan_days=3, today=None, m
                                         "interim": None, "payments": [], "issuedRatio": None, "tableRatio": None}
                     continue
                 ex = extract(read_rows(zb))
-                entries[key] = entry_from(doc, decide(ex), ex)
+                new = entry_from(doc, decide(ex), ex)
+                if not new["fy"] and entries.get(key, {}).get("fy"):
+                    new["fy"] = entries[key]["fy"]   # 決算期が取れなければ、前の結果の決算期を引き継ぐ
+                entries[key] = new
                 stats["included" if entries[key]["include"] else "excluded"] += 1
             if stopped:
                 break
@@ -185,7 +216,8 @@ def main(argv=None):
         return 1
     note("日本株の取り込み", f"{a.start}〜{a.end}\n取った書類 {stats['fetched']}件 / 失敗 {stats['failed']}件 / "
          f"一覧を取った日 {stats['days_listed']} / 飛ばした日 {stats['days_skipped']}\n"
-         f"新しく載せる {stats['included']}件 / 載せない {stats['excluded']}件 / 古い書類で飛ばした {stats['older_skipped']}件"
+         f"新しく載せる {stats['included']}件 / 載せない {stats['excluded']}件 / 古い書類で飛ばした {stats['older_skipped']}件\n"
+         f"決算期の欠けを埋めた {stats['fy_repaired']}件 / 埋められなかった {stats['fy_repair_failed']}件"
          + (f"\n止めた理由: {stopped}" if stopped else ""))
     note("日本株の集計", summarize(entries))
     return 0

@@ -34,6 +34,7 @@ class Extract:
     table: list = field(default_factory=list)  # 剰余金の配当の表（日付順）
     table_sane: bool = True  # 同じ日付の重複や、極端な値が無いか
     issued: dict = field(default_factory=dict)  # 相対年度 → 発行済株式総数
+    fy_end: str | None = None  # 当事業年度の終了日（表紙情報 `CurrentFiscalYearEndDateDEI`）。書類の一覧に決算期が無い訂正報告書の代わりに使う
 
 
 def num(s):
@@ -85,6 +86,7 @@ def _pick(cands):
 
 def extract(rows):
     annual, interim, issued_all = [], [], {}
+    fy_end = None
     table = {}
     for r in rows:
         elem = r[0].split(":")[-1]
@@ -101,6 +103,10 @@ def extract(rows):
                 t["dps"] = num(r[8])
             else:
                 t["total"] = num(r[8])
+        elif elem == "CurrentFiscalYearEndDateDEI":
+            d = norm_date(r[8])
+            if re.match(r"^\d{4}-\d{2}-\d{2}$", d):
+                fy_end = d
         elif elem == ISSUED:
             v = num(r[8])
             if v is not None and v > 0:
@@ -112,4 +118,4 @@ def extract(rows):
     dates = [x.date for x in rows_sorted]
     sane = len(dates) == len(set(dates)) and all((x.dps or 0) < DPS_LIMIT for x in rows_sorted)
     return Extract(annual=_pick(annual), interim=_pick(interim), table=rows_sorted, table_sane=sane,
-                   issued=issued_all)
+                   issued=issued_all, fy_end=fy_end)

@@ -82,6 +82,12 @@ class ExtractTest(unittest.TestCase):
         e = extract(read_rows(make_zip([row("DividendPaidPerShareSummaryOfBusinessResults", NC, "当期", "95", scope="その他")])))
         self.assertEqual(e.annual, 95.0)
 
+    def test_fiscal_year_end_is_read_from_the_cover_information(self):
+        rows = [row("DividendPaidPerShareSummaryOfBusinessResults", NC, "当期", "10"),
+                ["jpdei_cor:CurrentFiscalYearEndDateDEI", "当事業年度終了日", "FilingDateInstant", "提出日時点", "その他", "時点", "", "", "2026-03-31"]]
+        self.assertEqual(extract(read_rows(make_zip(rows))).fy_end, "2026-03-31")
+        self.assertIsNone(extract(read_rows(make_zip(rows[:1]))).fy_end)
+
     def test_helpers(self):
         self.assertEqual(num("1,234.5"), 1234.5)
         self.assertIsNone(num("－"))

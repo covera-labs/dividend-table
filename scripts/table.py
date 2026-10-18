@@ -29,7 +29,9 @@ def build_jp_section(entries, today):
         age = _days_old(e.get("fy") or e.get("filed"), today)
         if age is None or age > MAX_AGE_DAYS:
             continue
-        item = {"fy": e.get("fy"), "filed": e.get("filed"), "annual": e["annual"]}
+        item = {"filed": e.get("filed"), "annual": e["annual"]}
+        if e.get("fy"):
+            item["fy"] = e["fy"]   # 決算期が取れなかった会社は、載せない（アプリは fy が無ければ filed で古さを見る）
         raw = e.get("annualRaw")
         if raw is not None and raw != e["annual"]:
             item["annualRaw"] = raw
@@ -75,8 +77,8 @@ def validate(doc, prev_status=None):
             raw = v.get("annualRaw")
             if raw and a and not (1 / 50 <= a / raw <= 50):
                 problems.append(f"{section}: {code} の annual と annualRaw の差が大きすぎる")
-            if not v.get("fy"):
-                problems.append(f"{section}: {code} に fy が無い")
+            if not (v.get("fy") or v.get("filed")):
+                problems.append(f"{section}: {code} に fy も filed も無い")
     if prev_status:
         for section, keep in (("jp", JP_KEEP), ("us", US_KEEP)):
             before, now = prev_status.get(section, 0), len(doc.get(section, {}))
