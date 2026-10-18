@@ -1,0 +1,77 @@
+name: 毎日の更新と公開
+
+on:
+  schedule:
+    - cron: "17 13 * * *"   # 毎日 日本時間の22:17（UTCの13:17）。毎時0分は混むので、ずらしてある
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# 取り込み（backfill）や、ほかの更新と、同時に動かさない。待たせて、順番に動かす
+concurrency:
+  group: dividend-table-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    env:
+      EDINET_API_KEY: ${{ secrets.EDINET_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 日本株を更新する（直近10日の一覧を見て、新しい報告書だけ取る）
+        run: |
+          python3 -m scripts.build_jp --from "$(date -u -d '10 days ago' +%F)" --to "$(date -u +%F)" --max-docs 800
+
+      - name: 米国株を更新する（SECは数回の通信だけ。失敗しても、前回の米国株の表のまま続ける）
+        continue-on-error: true
+        env:
+          SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
+        run: python3 -m scripts.build_us
+
+      - name: 配る表を組み立てて、検査する
+        run: python3 -m scripts.publish
+
+      - name: 毎日の記録を残す（リポジトリに動きを作って、定期実行が止まらないようにする）
+        if: always()
+        run: |
+          printf '{\n "lastRun": "%s"\n}\n' "$(date -u +%FT%TZ)" > data/last-run.json
+
+      - name: 結果を保存する
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "変わったものはありません"
+          else
+            git commit -m "Update dividend table data"
+            git pull --rebase origin main   # 実行の途中で、ほかの変更が送られていても、取り込みの結果を失わないように
+            git push
+          fi
+
+      - name: Pagesの設定を読む
+        uses: actions/configure-pages@v5
+
+      - name: 公開用のファイルをまとめる
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 公開する
+        id: deployment
+        uses: actions/deploy-pages@v4
