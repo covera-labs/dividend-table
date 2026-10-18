@@ -1,0 +1,34 @@
+name: 米国株の更新（手動）
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dividend-table-data
+  cancel-in-progress: false
+
+jobs:
+  us:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    env:
+      SEC_CONTACT: ${{ secrets.SEC_CONTACT }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: 米国株を更新する
+        run: python3 -m scripts.build_us
+      - name: 結果を保存する
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "変わったものはありません"
+          else
+            git commit -m "Update US dividend table data"
+            git pull --rebase origin main   # 実行の途中で、ほかの変更が送られていても、取り込みの結果を失わないように
+            git push
+          fi
