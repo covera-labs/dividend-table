@@ -4035,9 +4035,9 @@
  "194A": {
   "annual": null,
   "annualRaw": null,
-  "docId": "S100Z4XU",
-  "docType": "120",
-  "filed": "2026-09-29",
+  "docId": "S100Z91E",
+  "docType": "130",
+  "filed": "2026-10-20",
   "flag": null,
   "fy": "2026-06-30",
   "include": false,
@@ -4046,7 +4046,7 @@
   "name": "株式会社ＷＯＬＶＥＳ　ＨＡＮＤ",
   "payments": [],
   "reason": "年間の1株配当が無い（無配、または記載なし）",
-  "submitted": "2026-09-29 13:43",
+  "submitted": "2026-10-20 11:34",
   "tableRatio": null
  },
  "1950": {
@@ -76498,9 +76498,9 @@
  "8145": {
   "annual": 90.0,
   "annualRaw": null,
-  "docId": "S100YI2J",
-  "docType": "120",
-  "filed": "2026-06-25",
+  "docId": "S100Z8W1",
+  "docType": "130",
+  "filed": "2026-10-20",
   "flag": null,
   "fy": "2026-03-31",
   "include": true,
@@ -76520,7 +76520,7 @@
    }
   ],
   "reason": "",
-  "submitted": "2026-06-25 14:25",
+  "submitted": "2026-10-20 15:18",
   "tableRatio": 1.0
  },
  "8147": {
@@ -84816,26 +84816,26 @@
   "tableRatio": null
  },
  "9242": {
-  "annual": 20.0,
+  "annual": 25.0,
   "annualRaw": null,
-  "docId": "S100WW8R",
+  "docId": "S100Z8T1",
   "docType": "120",
-  "filed": "2025-10-22",
+  "filed": "2026-10-20",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
   "interim": null,
-  "issuedRatio": 1.0016,
+  "issuedRatio": 1.0,
   "name": "メディア総研株式会社",
   "payments": [
    {
-    "d": "2025-10-23",
+    "d": "2026-09-17",
     "k": "f",
-    "v": 20.0
+    "v": 25.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-22 09:03",
+  "submitted": "2026-10-20 09:26",
   "tableRatio": null
  },
  "9244": {
