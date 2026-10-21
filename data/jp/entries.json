@@ -8039,32 +8039,32 @@
   "tableRatio": null
  },
  "2391": {
-  "annual": 43.5,
+  "annual": 44.0,
   "annualRaw": null,
-  "docId": "S100WW9E",
+  "docId": "S100Z91A",
   "docType": "120",
-  "filed": "2025-10-22",
+  "filed": "2026-10-21",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
-  "interim": 21.5,
+  "interim": 22.0,
   "issuedRatio": 1.0,
   "name": "株式会社プラネット",
   "payments": [
    {
-    "d": "2025-02-26",
+    "d": "2026-02-25",
     "k": "i",
-    "v": 21.5
+    "v": 22.0
    },
    {
-    "d": "2025-10-24",
+    "d": "2026-10-23",
     "k": "f",
     "v": 22.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-22 11:17",
-  "tableRatio": 1.0
+  "submitted": "2026-10-21 09:11",
+  "tableRatio": 1.012
  },
  "2393": {
   "annual": 72.0,
@@ -29078,18 +29078,18 @@
  "4194": {
   "annual": null,
   "annualRaw": null,
-  "docId": "S100WW0V",
+  "docId": "S100Z8ZJ",
   "docType": "120",
-  "filed": "2025-10-22",
+  "filed": "2026-10-21",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": false,
   "interim": null,
-  "issuedRatio": 1.0115,
+  "issuedRatio": 1.0097,
   "name": "ビジョナル株式会社",
   "payments": [],
   "reason": "年間の1株配当が無い（無配、または記載なし）",
-  "submitted": "2025-10-22 15:30",
+  "submitted": "2026-10-21 15:30",
   "tableRatio": null
  },
  "4196": {
