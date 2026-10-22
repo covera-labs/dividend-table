@@ -7722,26 +7722,26 @@
   "tableRatio": null
  },
  "2353": {
-  "annual": 8.0,
+  "annual": 9.0,
   "annualRaw": null,
-  "docId": "S100WW40",
+  "docId": "S100Z9DY",
   "docType": "120",
-  "filed": "2025-10-22",
+  "filed": "2026-10-22",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
   "interim": null,
   "issuedRatio": 1.0,
   "name": "日本駐車場開発株式会社",
   "payments": [
    {
-    "d": "2025-10-23",
+    "d": "2026-10-29",
     "k": "f",
-    "v": 8.0
+    "v": 9.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-22 15:30",
+  "submitted": "2026-10-22 15:30",
   "tableRatio": null
  },
  "2354": {
@@ -47824,20 +47824,20 @@
   "tableRatio": null
  },
  "6040": {
-  "annual": 3.5,
+  "annual": 5.0,
   "annualRaw": null,
-  "docId": "S100WWGS",
+  "docId": "S100Z9I2",
   "docType": "120",
-  "filed": "2025-10-22",
+  "filed": "2026-10-22",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
-  "interim": null,
+  "interim": 1.5,
   "issuedRatio": 1.0,
   "name": "日本スキー場開発株式会社",
   "payments": [],
   "reason": "",
-  "submitted": "2025-10-22 16:18",
+  "submitted": "2026-10-22 15:30",
   "tableRatio": null
  },
  "6042": {
@@ -51002,31 +51002,31 @@
   "tableRatio": null
  },
  "6267": {
-  "annual": 110.0,
+  "annual": 130.0,
   "annualRaw": null,
-  "docId": "S100WWCW",
+  "docId": "S100Z9C1",
   "docType": "120",
-  "filed": "2025-10-23",
+  "filed": "2026-10-22",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
-  "interim": 40.0,
+  "interim": 45.0,
   "issuedRatio": 1.0,
   "name": "ゼネラルパッカー株式会社",
   "payments": [
    {
-    "d": "2025-03-07",
+    "d": "2026-03-06",
     "k": "i",
-    "v": 40.0
+    "v": 45.0
    },
    {
-    "d": "2025-10-24",
+    "d": "2026-10-23",
     "k": "f",
-    "v": 70.0
+    "v": 85.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-23 13:30",
+  "submitted": "2026-10-22 13:26",
   "tableRatio": 1.0
  },
  "6268": {
@@ -52980,26 +52980,26 @@
   "tableRatio": null
  },
  "6387": {
-  "annual": 60.0,
+  "annual": 75.0,
   "annualRaw": null,
-  "docId": "S100WVTP",
+  "docId": "S100Z9F4",
   "docType": "120",
-  "filed": "2025-10-20",
+  "filed": "2026-10-22",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
   "interim": null,
   "issuedRatio": 1.0,
   "name": "サムコ　株式会社",
   "payments": [
    {
-    "d": "2025-10-21",
+    "d": "2026-10-27",
     "k": "f",
-    "v": 60.0
+    "v": 75.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-20 11:22",
+  "submitted": "2026-10-22 15:54",
   "tableRatio": null
  },
  "6390": {
@@ -55101,26 +55101,26 @@
   "tableRatio": null
  },
  "6535": {
-  "annual": 26.0,
+  "annual": 27.0,
   "annualRaw": null,
-  "docId": "S100WW4T",
+  "docId": "S100Z9LG",
   "docType": "120",
-  "filed": "2025-10-23",
+  "filed": "2026-10-22",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
   "interim": null,
   "issuedRatio": 1.0,
   "name": "株式会社アイモバイル",
   "payments": [
    {
-    "d": "2025-09-11",
+    "d": "2026-09-10",
     "k": "f",
-    "v": 26.0
+    "v": 27.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-23 12:00",
+  "submitted": "2026-10-22 16:38",
   "tableRatio": null
  },
  "6537": {
@@ -58171,26 +58171,26 @@
   "tableRatio": 1.0004
  },
  "6778": {
-  "annual": 20.0,
+  "annual": 25.0,
   "annualRaw": null,
-  "docId": "S100WW7U",
+  "docId": "S100Z9AN",
   "docType": "120",
-  "filed": "2025-10-23",
+  "filed": "2026-10-22",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
   "interim": null,
   "issuedRatio": 1.0,
   "name": "株式会社アルチザネットワークス",
   "payments": [
    {
-    "d": "2025-10-24",
+    "d": "2026-10-23",
     "k": "f",
-    "v": 20.0
+    "v": 25.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-23 13:09",
+  "submitted": "2026-10-22 15:30",
   "tableRatio": null
  },
  "6779": {
@@ -62432,32 +62432,32 @@
   "tableRatio": null
  },
  "7097": {
-  "annual": 24.0,
+  "annual": 28.0,
   "annualRaw": null,
-  "docId": "S100WWP5",
+  "docId": "S100Z9L4",
   "docType": "120",
-  "filed": "2025-10-23",
+  "filed": "2026-10-22",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
-  "interim": 12.0,
-  "issuedRatio": 1.0098,
+  "interim": 14.0,
+  "issuedRatio": 1.0141,
   "name": "株式会社さくらさくプラス",
   "payments": [
    {
-    "d": "2025-03-14",
+    "d": "2026-03-13",
     "k": "i",
-    "v": 12.0
+    "v": 14.0
    },
    {
-    "d": "2025-10-24",
+    "d": "2026-10-23",
     "k": "f",
-    "v": 12.0
+    "v": 14.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-23 16:08",
-  "tableRatio": 1.0
+  "submitted": "2026-10-22 15:45",
+  "tableRatio": 1.0333
  },
  "7102": {
   "annual": 45.0,
@@ -62710,26 +62710,26 @@
   "tableRatio": null
  },
  "7126": {
-  "annual": 33.0,
+  "annual": 57.0,
   "annualRaw": null,
-  "docId": "S100WVWR",
+  "docId": "S100YTVJ",
   "docType": "120",
-  "filed": "2025-10-24",
+  "filed": "2026-10-22",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
   "interim": null,
   "issuedRatio": 1.0,
   "name": "グローバルスタイル株式会社",
   "payments": [
    {
-    "d": "2025-10-24",
+    "d": "2026-10-23",
     "k": "f",
-    "v": 33.0
+    "v": 57.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-24 15:51",
+  "submitted": "2026-10-22 16:00",
   "tableRatio": null
  },
  "7127": {
@@ -71225,26 +71225,26 @@
   "tableRatio": null
  },
  "7810": {
-  "annual": 0.35,
+  "annual": 0.63,
   "annualRaw": null,
-  "docId": "S100WWNJ",
+  "docId": "S100Z9I0",
   "docType": "120",
-  "filed": "2025-10-23",
+  "filed": "2026-10-22",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
   "interim": null,
-  "issuedRatio": 1.0022,
+  "issuedRatio": 1.028,
   "name": "株式会社クロスフォー",
   "payments": [
    {
-    "d": "2025-10-24",
+    "d": "2026-10-23",
     "k": "f",
-    "v": 0.35
+    "v": 0.63
    }
   ],
   "reason": "",
-  "submitted": "2025-10-23 13:32",
+  "submitted": "2026-10-22 14:25",
   "tableRatio": null
  },
  "7811": {
@@ -85140,26 +85140,26 @@
   "tableRatio": null
  },
  "9262": {
-  "annual": 16.0,
+  "annual": 18.0,
   "annualRaw": null,
-  "docId": "S100WWED",
+  "docId": "S100Z8TU",
   "docType": "120",
-  "filed": "2025-10-24",
+  "filed": "2026-10-22",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
   "interim": null,
-  "issuedRatio": 1.0043,
+  "issuedRatio": 1.0024,
   "name": "株式会社シルバーライフ",
   "payments": [
    {
-    "d": "2025-10-28",
+    "d": "2026-10-27",
     "k": "f",
-    "v": 16.0
+    "v": 18.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-24 16:00",
+  "submitted": "2026-10-22 16:00",
   "tableRatio": null
  },
  "9264": {
@@ -88527,9 +88527,9 @@
  "9557": {
   "annual": null,
   "annualRaw": null,
-  "docId": "S100Z3ST",
-  "docType": "120",
-  "filed": "2026-09-24",
+  "docId": "S100Z9KG",
+  "docType": "130",
+  "filed": "2026-10-22",
   "flag": null,
   "fy": "2026-06-30",
   "include": false,
@@ -88538,7 +88538,7 @@
   "name": "株式会社エアークローゼット",
   "payments": [],
   "reason": "年間の1株配当が無い（無配、または記載なし）",
-  "submitted": "2026-09-24 16:42",
+  "submitted": "2026-10-22 15:17",
   "tableRatio": null
  },
  "9558": {
