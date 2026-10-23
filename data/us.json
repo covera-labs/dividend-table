@@ -963,9 +963,9 @@
   "tag": "declared"
  },
  "AYI": {
-  "annual": 0.66,
+  "annual": 0.77,
   "ccy": "USD",
-  "fy": "2025-08-31",
+  "fy": "2026-08-31",
   "tag": "declared"
  },
  "AZZ": {
@@ -5605,9 +5605,9 @@
   "tag": "declared"
  },
  "LNN": {
-  "annual": 1.45,
+  "annual": 1.49,
   "ccy": "USD",
-  "fy": "2025-08-31",
+  "fy": "2026-08-31",
   "tag": "declared"
  },
  "LNT": {
@@ -6387,6 +6387,12 @@
  },
  "MSFT": {
   "annual": 3.64,
+  "ccy": "USD",
+  "fy": "2026-06-30",
+  "tag": "declared"
+ },
+ "MSGK-WI": {
+  "annual": 7.0,
   "ccy": "USD",
   "fy": "2026-06-30",
   "tag": "declared"

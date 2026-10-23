@@ -13173,30 +13173,30 @@
  "2929": {
   "annual": 25.0,
   "annualRaw": null,
-  "docId": "S100WW38",
+  "docId": "S100Z9MI",
   "docType": "120",
-  "filed": "2025-10-21",
+  "filed": "2026-10-23",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
   "interim": 12.5,
   "issuedRatio": 1.0,
   "name": "株式会社ファーマフーズ",
   "payments": [
    {
-    "d": "2025-02-17",
+    "d": "2026-02-16",
     "k": "i",
     "v": 12.5
    },
    {
-    "d": "2025-10-24",
+    "d": "2026-10-28",
     "k": "f",
     "v": 12.5
    }
   ],
   "reason": "",
-  "submitted": "2025-10-21 15:32",
-  "tableRatio": 1.0083
+  "submitted": "2026-10-23 15:30",
+  "tableRatio": 1.0
  },
  "2930": {
   "annual": 3.5,
@@ -13787,26 +13787,26 @@
   "tableRatio": null
  },
  "2991": {
-  "annual": 20.0,
+  "annual": 11.1,
   "annualRaw": null,
-  "docId": "S100WWX1",
+  "docId": "S100Z9OL",
   "docType": "120",
-  "filed": "2025-10-24",
-  "flag": "split_year",
-  "fy": "2025-07-31",
+  "filed": "2026-10-23",
+  "flag": null,
+  "fy": "2026-07-31",
   "include": true,
   "interim": null,
-  "issuedRatio": 2.0029,
+  "issuedRatio": 1.0015,
   "name": "株式会社ランドネット",
   "payments": [
    {
-    "d": "2025-10-28",
+    "d": "2026-10-27",
     "k": "f",
-    "v": 20.0
+    "v": 11.1
    }
   ],
-  "reason": "分割の年。配当が1回だけなので、基準は混ざらない",
-  "submitted": "2025-10-24 15:49",
+  "reason": "",
+  "submitted": "2026-10-23 14:09",
   "tableRatio": null
  },
  "2993": {
@@ -16303,31 +16303,31 @@
   "tableRatio": null
  },
  "3172": {
-  "annual": 40.0,
+  "annual": 30.0,
   "annualRaw": null,
-  "docId": "S100WWIC",
+  "docId": "S100Z9MO",
   "docType": "120",
-  "filed": "2025-10-23",
+  "filed": "2026-10-23",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
-  "interim": 20.0,
-  "issuedRatio": 1.0012,
+  "interim": 15.0,
+  "issuedRatio": 1.0014,
   "name": "ティーライフ株式会社",
   "payments": [
    {
-    "d": "2025-03-04",
+    "d": "2026-03-05",
     "k": "i",
-    "v": 20.0
+    "v": 15.0
    },
    {
-    "d": "2025-10-24",
+    "d": "2026-10-27",
     "k": "f",
-    "v": 20.0
+    "v": 15.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-23 13:01",
+  "submitted": "2026-10-23 15:00",
   "tableRatio": 1.0
  },
  "3173": {
@@ -16617,9 +16617,9 @@
  "3185": {
   "annual": null,
   "annualRaw": null,
-  "docId": "S100YG5J",
-  "docType": "120",
-  "filed": "2026-06-22",
+  "docId": "S100Z9ML",
+  "docType": "130",
+  "filed": "2026-10-23",
   "flag": null,
   "fy": "2026-03-31",
   "include": false,
@@ -16628,7 +16628,7 @@
   "name": "夢展望株式会社",
   "payments": [],
   "reason": "年間の1株配当が無い（無配、または記載なし）",
-  "submitted": "2026-06-22 10:08",
+  "submitted": "2026-10-23 16:00",
   "tableRatio": null
  },
  "3186": {
@@ -38760,18 +38760,18 @@
  "4934": {
   "annual": null,
   "annualRaw": null,
-  "docId": "S100YTAL",
-  "docType": "130",
-  "filed": "2026-07-30",
+  "docId": "S100Z9QW",
+  "docType": "120",
+  "filed": "2026-10-23",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": false,
   "interim": null,
   "issuedRatio": 1.0,
   "name": "プレミアアンチエイジング株式会社",
   "payments": [],
   "reason": "年間の1株配当が無い（無配、または記載なし）",
-  "submitted": "2026-07-30 15:40",
+  "submitted": "2026-10-23 15:37",
   "tableRatio": null
  },
  "4935": {
@@ -38800,29 +38800,29 @@
  "4936": {
   "annual": 10.0,
   "annualRaw": null,
-  "docId": "S100YN1G",
-  "docType": "130",
-  "filed": "2026-06-30",
+  "docId": "S100Z9OJ",
+  "docType": "120",
+  "filed": "2026-10-23",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
   "interim": 5.0,
-  "issuedRatio": 0.9579,
+  "issuedRatio": 1.0,
   "name": "株式会社アクシージア",
   "payments": [
    {
-    "d": "2025-03-14",
+    "d": "2026-03-13",
     "k": "i",
     "v": 5.0
    },
    {
-    "d": "2025-09-19",
+    "d": "2026-09-14",
     "k": "f",
     "v": 5.0
    }
   ],
   "reason": "",
-  "submitted": "2026-06-30 13:31",
+  "submitted": "2026-10-23 16:46",
   "tableRatio": 1.0
  },
  "4937": {
@@ -43545,18 +43545,18 @@
  "5572": {
   "annual": null,
   "annualRaw": null,
-  "docId": "S100WWVV",
+  "docId": "S100Z9MR",
   "docType": "120",
-  "filed": "2025-10-24",
+  "filed": "2026-10-23",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": false,
   "interim": null,
-  "issuedRatio": 1.0126,
+  "issuedRatio": 1.1042,
   "name": "株式会社Ｒｉｄｇｅ－ｉ",
   "payments": [],
   "reason": "年間の1株配当が無い（無配、または記載なし）",
-  "submitted": "2025-10-24 14:04",
+  "submitted": "2026-10-23 11:20",
   "tableRatio": null
  },
  "5574": {
@@ -50273,26 +50273,26 @@
   "tableRatio": 1.0051
  },
  "6225": {
-  "annual": 32.0,
+  "annual": 36.0,
   "annualRaw": null,
-  "docId": "S100WWVI",
+  "docId": "S100Z9OQ",
   "docType": "120",
-  "filed": "2025-10-24",
+  "filed": "2026-10-23",
   "flag": null,
-  "fy": "2025-07-31",
+  "fy": "2026-07-31",
   "include": true,
   "interim": null,
-  "issuedRatio": 0.9104,
+  "issuedRatio": 1.0,
   "name": "株式会社エコム",
   "payments": [
    {
-    "d": "2025-09-04",
+    "d": "2026-09-11",
     "k": "f",
-    "v": 32.0
+    "v": 36.0
    }
   ],
   "reason": "",
-  "submitted": "2025-10-24 13:58",
+  "submitted": "2026-10-23 11:59",
   "tableRatio": null
  },
  "6226": {
@@ -61684,6 +61684,29 @@
   ],
   "reason": "",
   "submitted": "2026-06-16 16:28",
+  "tableRatio": null
+ },
+ "7058": {
+  "annual": 120.0,
+  "annualRaw": null,
+  "docId": "S100Z9Q4",
+  "docType": "120",
+  "filed": "2026-10-23",
+  "flag": null,
+  "fy": "2026-07-31",
+  "include": true,
+  "interim": null,
+  "issuedRatio": 1.0,
+  "name": "共栄セキュリティーサービス株式会社",
+  "payments": [
+   {
+    "d": "2026-10-22",
+    "k": "f",
+    "v": 120.0
+   }
+  ],
+  "reason": "",
+  "submitted": "2026-10-23 14:18",
   "tableRatio": null
  },
  "7059": {
